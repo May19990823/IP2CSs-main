@@ -16,3 +16,9 @@ python tools/prepare_entries.py \
 
 Generated entry, grid, and alpha-cache files are intentionally ignored by
 Git because they are deterministic intermediate data.
+
+`dft_hull_near_structures/` contains the broad, `struc`-only binary DFT hull
+dataset. `dft_novel_alloy_structures/` is the stricter 58-structure release
+that additionally applies the manuscript MLIP prescreen, checks against
+Materials Project reference structures, and constructs the DFT hull jointly
+from search and reference phases.

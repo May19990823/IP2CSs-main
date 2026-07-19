@@ -173,6 +173,22 @@ contain newer DFT results evaluated by the same rule. See
 `data/dft_hull_near_structures/README.md` for the precise selection rule and
 reproduction command.
 
+### Novel Structures Absent From MP References
+
+A separate, stricter release contains 58 DFT-stable binary alloy structures
+that also pass the manuscript MLIP prescreen and do not match the available
+Materials Project reference structures:
+
+```text
+data/dft_novel_alloy_structures/
+```
+
+The directory includes the DFT-relaxed VASP files, a row-level CSV manifest,
+and a JSON selection audit. This is a current, threshold-driven reanalysis and
+is not forced to equal the historical manuscript count of 33. See the dataset
+README for the exact hull definitions, matcher tolerances, binary-system scope,
+and reproduction command.
+
 ## Representative Si-Ge-Sn Structures
 
 The two relaxed Ge5SiSn2 configurations shown as SRO_1 and SRO_2 in Fig. 5c,d
@@ -194,6 +210,7 @@ configs/               portable B16 configuration
 data/effective_pair/   public B-B effective-pair table
 data/b12_27site_relaxed_1333/structures/  MLIP-relaxed B12/27-site benchmark structures
 data/dft_hull_near_structures/  DFT-stable alloy structures and manifest
+data/dft_novel_alloy_structures/  DFT-stable structures absent from MP references
 data/sigesn_representative_structures/  Ge5SiSn2 structures shown in Fig. 5c,d
 hpc/                   reference Slurm launcher
 ip4ch/                 integer-programming and pair-energy implementation

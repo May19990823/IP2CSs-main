@@ -1,0 +1,2727 @@
+{
+  "counts": {
+    "dft_duplicates_removed": 0,
+    "selected_before_deduplication": 58,
+    "selected_representatives": 58,
+    "systems_requested": 21,
+    "systems_with_results": 21
+  },
+  "duplicates": [],
+  "excluded_counts_by_reason": {
+    "above_dft_hull_threshold": 2598,
+    "matches_materials_project_reference": 36,
+    "missing_dft_formation_energy": 3
+  },
+  "records": [
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0005745908333327776,
+      "dft_formation_energy_eV_per_atom": -0.22742664624999698,
+      "filename": "struct_14833_8_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 1,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.010634422256900838,
+      "mlip_formation_energy_eV_per_atom": -0.22186821314661387,
+      "number_of_atoms": 32,
+      "phase": "Al1Hf3",
+      "reduced_formula": "Hf3Al",
+      "sha256": "e9e37f5aea2dea07a633ab15fa6a7a59dcfa053156e83d8e54a355ef33d0d8f6",
+      "source_relative_path": "AlHf/Al1Hf3/xyz2poscar/struct_14833_8_relaxed.vasp",
+      "space_group_number": 139,
+      "space_group_symbol": "I4/mmm",
+      "system": "AlHf",
+      "target_element": "Hf",
+      "target_element_fraction": 0.75
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.00016244930555625592,
+      "dft_formation_energy_eV_per_atom": -0.2278387877777735,
+      "filename": "struct_15897_0_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 1,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.2325026354035147,
+      "number_of_atoms": 36,
+      "phase": "Al1Hf3",
+      "reduced_formula": "Hf3Al",
+      "sha256": "653b3aba26415b41a0c7d7f1f073a252dda7b05782e625f6b68f1d9bd94998ed",
+      "source_relative_path": "AlHf/Al1Hf3/xyz2poscar/struct_15897_0_relaxed.vasp",
+      "space_group_number": 221,
+      "space_group_symbol": "Pm-3m",
+      "system": "AlHf",
+      "target_element": "Hf",
+      "target_element_fraction": 0.75
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.22800123708332976,
+      "filename": "struct_18636_0_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 1,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0026966689628330487,
+      "mlip_formation_energy_eV_per_atom": -0.22980596644068166,
+      "number_of_atoms": 48,
+      "phase": "Al1Hf3",
+      "reduced_formula": "Hf3Al",
+      "sha256": "0b5946a851e7bd296e2fe5a1651dd70d314813ae11045d8a12357e64713d4515",
+      "source_relative_path": "AlHf/Al1Hf3/xyz2poscar/struct_18636_0_relaxed.vasp",
+      "space_group_number": 63,
+      "space_group_symbol": "Cmcm",
+      "system": "AlHf",
+      "target_element": "Hf",
+      "target_element_fraction": 0.75
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.6373318252083292,
+      "filename": "struct_3949_3_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 1,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.009395463018659456,
+      "mlip_formation_energy_eV_per_atom": -0.6074058581560937,
+      "number_of_atoms": 48,
+      "phase": "Al1Pd3",
+      "reduced_formula": "AlPd3",
+      "sha256": "9209d6ad2883d880fc547f102ea29f425614bafc3d6b29ae94e317433ea92796",
+      "source_relative_path": "AlPd/Al1Pd3/xyz2poscar/struct_3949_3_relaxed.vasp",
+      "space_group_number": 63,
+      "space_group_symbol": "Cmcm",
+      "system": "AlPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.75
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.40221285291666814,
+      "filename": "struct_1643_4_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 3,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.014396322370381909,
+      "mlip_formation_energy_eV_per_atom": -0.3987668350359848,
+      "number_of_atoms": 24,
+      "phase": "Al3Ti1",
+      "reduced_formula": "TiAl3",
+      "sha256": "40e0922325f824ea6a785db5063f6125efcdb53177bb637d5c8ee8d8f1ef61f1",
+      "source_relative_path": "AlTi/Al3Ti1/xyz2poscar/struct_1643_4_relaxed.vasp",
+      "space_group_number": 123,
+      "space_group_symbol": "P4/mmm",
+      "system": "AlTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.25
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.3677174387500009,
+      "filename": "struct_3714_1_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.012204932119210699,
+      "mlip_formation_energy_eV_per_atom": -0.39402959712043334,
+      "number_of_atoms": 56,
+      "phase": "Al3Ti4",
+      "reduced_formula": "Ti4Al3",
+      "sha256": "12e0fde7dae2eab7e192002377cc66726d4acf9c423e011166916040375bcd27",
+      "source_relative_path": "AlTi/Al3Ti4/xyz2poscar/struct_3714_1_relaxed.vasp",
+      "space_group_number": 123,
+      "space_group_symbol": "P4/mmm",
+      "system": "AlTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.5714285714285714
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 8.628828125578636e-06,
+      "dft_formation_energy_eV_per_atom": -0.42095992156250084,
+      "filename": "struct_3701_7_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 2,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.006054172799109914,
+      "mlip_formation_energy_eV_per_atom": -0.43436582883865693,
+      "number_of_atoms": 64,
+      "phase": "Al5Ti3",
+      "reduced_formula": "Ti3Al5",
+      "sha256": "e600ce83d5be6894c8ffde5e8658314eaaa7391af0fddeba3a6d19a8ed09836c",
+      "source_relative_path": "AlTi/Al5Ti3/xyz2poscar/struct_3701_7_relaxed.vasp",
+      "space_group_number": 115,
+      "space_group_symbol": "P-4m2",
+      "system": "AlTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.375
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.000358221249999964,
+      "dft_formation_energy_eV_per_atom": -0.05544054374999637,
+      "filename": "struct_2624_1_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0019971673951030555,
+      "mlip_formation_energy_eV_per_atom": -0.044946484230081886,
+      "number_of_atoms": 48,
+      "phase": "Cu1Pd5",
+      "reduced_formula": "CuPd5",
+      "sha256": "1f338a5366698f2018e0e2b2735c556291ed7fb9150ede5647055522259cffab",
+      "source_relative_path": "CuPd/Cu1Pd5/xyz2poscar/struct_2624_1_relaxed.vasp",
+      "space_group_number": 47,
+      "space_group_symbol": "Pmmm",
+      "system": "CuPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.8333333333333334
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.05579876499999633,
+      "filename": "struct_2795_0_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0023442373077194392,
+      "mlip_formation_energy_eV_per_atom": -0.0445994143174655,
+      "number_of_atoms": 48,
+      "phase": "Cu1Pd5",
+      "reduced_formula": "CuPd5",
+      "sha256": "21d154e9fb6eea04230916e8c83c5c0f067658b82dcefbf554b0e57e37fc45fc",
+      "source_relative_path": "CuPd/Cu1Pd5/xyz2poscar/struct_2795_0_relaxed.vasp",
+      "space_group_number": 51,
+      "space_group_symbol": "Pmma",
+      "system": "CuPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.8333333333333334
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0003119368750000573,
+      "dft_formation_energy_eV_per_atom": -0.05548682812499628,
+      "filename": "struct_2938_4_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0010890045238041782,
+      "mlip_formation_energy_eV_per_atom": -0.04585464710138076,
+      "number_of_atoms": 48,
+      "phase": "Cu1Pd5",
+      "reduced_formula": "CuPd5",
+      "sha256": "17b7c48905d13951e2cb8a58feeab2ac82c1eb863cb85421c11cdb18d44bd6c3",
+      "source_relative_path": "CuPd/Cu1Pd5/xyz2poscar/struct_2938_4_relaxed.vasp",
+      "space_group_number": 129,
+      "space_group_symbol": "P4/nmm",
+      "system": "CuPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.8333333333333334
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0004069887500003089,
+      "dft_formation_energy_eV_per_atom": -0.05539177624999603,
+      "filename": "struct_3070_6_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0003695072187417242,
+      "mlip_formation_energy_eV_per_atom": -0.04657414440644322,
+      "number_of_atoms": 48,
+      "phase": "Cu1Pd5",
+      "reduced_formula": "CuPd5",
+      "sha256": "9560497bb6969cf1eb1f7cdd9a4de28df4904bc3c3210687a1644af9cd02e311",
+      "source_relative_path": "CuPd/Cu1Pd5/xyz2poscar/struct_3070_6_relaxed.vasp",
+      "space_group_number": 123,
+      "space_group_symbol": "P4/mmm",
+      "system": "CuPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.8333333333333334
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.000512609375000167,
+      "dft_formation_energy_eV_per_atom": -0.05528615562499617,
+      "filename": "struct_3080_0_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0012592820896986726,
+      "mlip_formation_energy_eV_per_atom": -0.04568436953548627,
+      "number_of_atoms": 48,
+      "phase": "Cu1Pd5",
+      "reduced_formula": "CuPd5",
+      "sha256": "49e9164f3404100aebd961af3266055c8b617e147410037f8919bc1908f4bc92",
+      "source_relative_path": "CuPd/Cu1Pd5/xyz2poscar/struct_3080_0_relaxed.vasp",
+      "space_group_number": 123,
+      "space_group_symbol": "P4/mmm",
+      "system": "CuPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.8333333333333334
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0009320066666666446,
+      "dft_formation_energy_eV_per_atom": -0.05486675833332969,
+      "filename": "struct_3080_2_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.001808926162165797,
+      "mlip_formation_energy_eV_per_atom": -0.045134725463019144,
+      "number_of_atoms": 48,
+      "phase": "Cu1Pd5",
+      "reduced_formula": "CuPd5",
+      "sha256": "0814d640db04d0f2c7406ab087676bf48c820b8001f37cc5bdc9ad7a71d4ef7f",
+      "source_relative_path": "CuPd/Cu1Pd5/xyz2poscar/struct_3080_2_relaxed.vasp",
+      "space_group_number": 123,
+      "space_group_symbol": "P4/mmm",
+      "system": "CuPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.8333333333333334
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.1546603387499991,
+      "filename": "struct_4119_0_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 3,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.004539280318955591,
+      "mlip_formation_energy_eV_per_atom": -0.10345914840997021,
+      "number_of_atoms": 48,
+      "phase": "Cu3Pd1",
+      "reduced_formula": "Cu3Pd",
+      "sha256": "28b4eca7d21751e6058f1c7beab430d75592cd5ab5affbb2a96e83059e31b4fd",
+      "source_relative_path": "CuPd/Cu3Pd1/xyz2poscar/struct_4119_0_relaxed.vasp",
+      "space_group_number": 139,
+      "space_group_symbol": "I4/mmm",
+      "system": "CuPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.25
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.1383329557499998,
+      "filename": "struct_2371_2_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 1,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.004730238385173877,
+      "mlip_formation_energy_eV_per_atom": -0.08166850459796678,
+      "number_of_atoms": 40,
+      "phase": "Cu4Pd1",
+      "reduced_formula": "Cu4Pd",
+      "sha256": "caafa5e73e16c133b3ba4a7ff309e42f14d0ae685cecd139a2431fae434d3532",
+      "source_relative_path": "CuPd/Cu4Pd1/xyz2poscar/struct_2371_2_relaxed.vasp",
+      "space_group_number": 129,
+      "space_group_symbol": "P4/nmm",
+      "system": "CuPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.2
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0009120839583320189,
+      "dft_formation_energy_eV_per_atom": -0.12470260291666631,
+      "filename": "struct_1038_3_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.005198072725023858,
+      "mlip_formation_energy_eV_per_atom": -0.06680087976092668,
+      "number_of_atoms": 24,
+      "phase": "Cu5Pd1",
+      "reduced_formula": "Cu5Pd",
+      "sha256": "733a71993e680b8c20538b0e832ce4d43b2ddeb5098e625111e103b79d95a9cf",
+      "source_relative_path": "CuPd/Cu5Pd1/xyz2poscar/struct_1038_3_relaxed.vasp",
+      "space_group_number": 25,
+      "space_group_symbol": "Pmm2",
+      "system": "CuPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.16666666666666666
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.12561468687499833,
+      "filename": "struct_2487_6_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.005775606944163722,
+      "mlip_formation_energy_eV_per_atom": -0.06622334554178681,
+      "number_of_atoms": 48,
+      "phase": "Cu5Pd1",
+      "reduced_formula": "Cu5Pd",
+      "sha256": "4ff13aaaf4f5f099599158c8cede5d84fb8ac5004e4399db205189c0609e0ce9",
+      "source_relative_path": "CuPd/Cu5Pd1/xyz2poscar/struct_2487_6_relaxed.vasp",
+      "space_group_number": 141,
+      "space_group_symbol": "I4_1/amd",
+      "system": "CuPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.16666666666666666
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.280716846666667,
+      "filename": "struct_4327_2_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 1,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.010205293921886072,
+      "mlip_formation_energy_eV_per_atom": -0.16995356104510584,
+      "number_of_atoms": 36,
+      "phase": "Cu2Sc1",
+      "reduced_formula": "ScCu2",
+      "sha256": "fd4c608f3041bcac3360b863d21f7c34fdd2de6064d3c112f4ee45c4e939ede3",
+      "source_relative_path": "CuSc/Cu2Sc1/xyz2poscar/struct_4327_2_relaxed.vasp",
+      "space_group_number": 63,
+      "space_group_symbol": "Cmcm",
+      "system": "CuSc",
+      "target_element": "Sc",
+      "target_element_fraction": 0.3333333333333333
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.20905160166666725,
+      "filename": "struct_10705_3_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.1364856666186641,
+      "number_of_atoms": 24,
+      "phase": "Cu5Sc1",
+      "reduced_formula": "ScCu5",
+      "sha256": "e737a6c2565a71d2da7d37a4d811a99f63426ca41ac8e2df4438ebbe27b90e4d",
+      "source_relative_path": "CuSc/Cu5Sc1/xyz2poscar/struct_10705_3_relaxed.vasp",
+      "space_group_number": 119,
+      "space_group_symbol": "I-4m2",
+      "system": "CuSc",
+      "target_element": "Sc",
+      "target_element_fraction": 0.16666666666666666
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.8513505244999995,
+      "filename": "struct_8449_7_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.03422850272204486,
+      "mlip_formation_energy_eV_per_atom": -0.14750192945699467,
+      "number_of_atoms": 60,
+      "phase": "Cu2Y3",
+      "reduced_formula": "Y3Cu2",
+      "sha256": "13d02664e5e9b51596a008d3d30c95a09842f37f914298785ee80c19cb705351",
+      "source_relative_path": "CuY/Cu2Y3/xyz2poscar/struct_8449_7_relaxed.vasp",
+      "space_group_number": 139,
+      "space_group_symbol": "I4/mmm",
+      "system": "CuY",
+      "target_element": "Y",
+      "target_element_fraction": 0.6
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.7079696404166652,
+      "filename": "struct_2091_0_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.01626313115981759,
+      "mlip_formation_energy_eV_per_atom": -0.6411403849608478,
+      "number_of_atoms": 24,
+      "phase": "Ir1Ti2",
+      "reduced_formula": "Ti2Ir",
+      "sha256": "1bdfddf1a2b9140b365c41493a5ff691128f46356b58be8783903b719283f13e",
+      "source_relative_path": "IrTi/Ir1Ti2/xyz2poscar/struct_2091_0_relaxed.vasp",
+      "space_group_number": 139,
+      "space_group_symbol": "I4/mmm",
+      "system": "IrTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.6666666666666666
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.7934308781250117,
+      "filename": "struct_5018_6_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.014915387990966145,
+      "mlip_formation_energy_eV_per_atom": -0.7131457229773233,
+      "number_of_atoms": 48,
+      "phase": "Ir2Ti1",
+      "reduced_formula": "TiIr2",
+      "sha256": "65aee2c6d87673bc4c32d07ac0c7b31b58b968cfb8a0b7e6cd5967028bb9847f",
+      "source_relative_path": "IrTi/Ir2Ti1/xyz2poscar/struct_5018_6_relaxed.vasp",
+      "space_group_number": 141,
+      "space_group_symbol": "I4_1/amd",
+      "system": "IrTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.3333333333333333
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0008286433333203336,
+      "dft_formation_energy_eV_per_atom": -0.47742809666667874,
+      "filename": "struct_15489_1_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.011031551159569053,
+      "mlip_formation_energy_eV_per_atom": -0.44854091214192554,
+      "number_of_atoms": 72,
+      "phase": "Ir5Ti1",
+      "reduced_formula": "TiIr5",
+      "sha256": "0f460b2d0d4ec6b90b796b5bf14ec4e9ece6379ca485f4f31a7d7b96193c1454",
+      "source_relative_path": "IrTi/Ir5Ti1/xyz2poscar/struct_15489_1_relaxed.vasp",
+      "space_group_number": 12,
+      "space_group_symbol": "C2/m",
+      "system": "IrTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.16666666666666666
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.3976174414999967,
+      "filename": "struct_2486_3_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 4.173745094981918e-06,
+      "mlip_formation_energy_eV_per_atom": -0.3871372961080226,
+      "number_of_atoms": 40,
+      "phase": "Mg1Pd4",
+      "reduced_formula": "MgPd4",
+      "sha256": "a4def304bb7531f8c4d4d047fec2bdedc33c10458f2cd077d0b022613e3b15e6",
+      "source_relative_path": "MgPd/Mg1Pd4/xyz2poscar/struct_2486_3_relaxed.vasp",
+      "space_group_number": 141,
+      "space_group_symbol": "I4_1/amd",
+      "system": "MgPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.8
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0005146654999997335,
+      "dft_formation_energy_eV_per_atom": -0.397102775999997,
+      "filename": "struct_2977_3_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.3871414698531176,
+      "number_of_atoms": 40,
+      "phase": "Mg1Pd4",
+      "reduced_formula": "MgPd4",
+      "sha256": "f7a61b2344ce85c9a5840a6e97c66bcbcd5e894adfff44ca2aca66af0d7c2433",
+      "source_relative_path": "MgPd/Mg1Pd4/xyz2poscar/struct_2977_3_relaxed.vasp",
+      "space_group_number": 65,
+      "space_group_symbol": "Cmmm",
+      "system": "MgPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.8
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0006895424999999733,
+      "dft_formation_energy_eV_per_atom": -0.5356838362500002,
+      "filename": "struct_2245_8_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 2,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.5115561972489839,
+      "number_of_atoms": 24,
+      "phase": "Mg2Pd1",
+      "reduced_formula": "Mg2Pd",
+      "sha256": "cea28076a3d9547da49b4e726fa9955fd982337370124e14514350ac3b0682c6",
+      "source_relative_path": "MgPd/Mg2Pd1/xyz2poscar/struct_2245_8_relaxed.vasp",
+      "space_group_number": 140,
+      "space_group_symbol": "I4/mcm",
+      "system": "MgPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.3333333333333333
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.6617440254999977,
+      "filename": "struct_3208_4_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.004769365277639825,
+      "mlip_formation_energy_eV_per_atom": -0.6172647054716606,
+      "number_of_atoms": 40,
+      "phase": "Mg2Pd3",
+      "reduced_formula": "Mg2Pd3",
+      "sha256": "d75de06a884ceaf87836e330d46d6e41c6bc38d54308506763fcd3f010a82617",
+      "source_relative_path": "MgPd/Mg2Pd3/xyz2poscar/struct_3208_4_relaxed.vasp",
+      "space_group_number": 19,
+      "space_group_symbol": "P2_12_12_1",
+      "system": "MgPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.6
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.34714158449999954,
+      "filename": "struct_8909_0_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.3248025354299632,
+      "number_of_atoms": 20,
+      "phase": "Mg4Pd1",
+      "reduced_formula": "Mg4Pd",
+      "sha256": "5bd375faad2761cada5b4109c4ae7f9c6b79037cc1954b14b5f45e9d4def8742",
+      "source_relative_path": "MgPd/Mg4Pd1/xyz2poscar/struct_8909_0_relaxed.vasp",
+      "space_group_number": 198,
+      "space_group_symbol": "P2_13",
+      "system": "MgPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.2
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.10126848687499823,
+      "filename": "struct_3699_5_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 2,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.11206601504268576,
+      "number_of_atoms": 32,
+      "phase": "Mo1Ti1",
+      "reduced_formula": "TiMo",
+      "sha256": "75d0e1dc86aab2af7ff97dcdb1b86030a6b2f5904df6754cea71ebb135a92d6d",
+      "source_relative_path": "MoTi/Mo1Ti1/xyz2poscar/struct_3699_5_relaxed.vasp",
+      "space_group_number": 74,
+      "space_group_symbol": "Imma",
+      "system": "MoTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.5
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.11371155541666174,
+      "filename": "struct_1784_7_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 1,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0014512874755100852,
+      "mlip_formation_energy_eV_per_atom": -0.11575880752282448,
+      "number_of_atoms": 24,
+      "phase": "Mo2Ti1",
+      "reduced_formula": "TiMo2",
+      "sha256": "29d9b4e2765d70187b0748fb684371c1513a58f1b83079b1ffc0de2b7548bc89",
+      "source_relative_path": "MoTi/Mo2Ti1/xyz2poscar/struct_1784_7_relaxed.vasp",
+      "space_group_number": 139,
+      "space_group_symbol": "I4/mmm",
+      "system": "MoTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.3333333333333333
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0009256885416538269,
+      "dft_formation_energy_eV_per_atom": -0.11278586687500791,
+      "filename": "struct_5239_3_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 1,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.014113454796364763,
+      "mlip_formation_energy_eV_per_atom": -0.1030966402019698,
+      "number_of_atoms": 48,
+      "phase": "Mo2Ti1",
+      "reduced_formula": "TiMo2",
+      "sha256": "b25edb81e1438def57b60dc16f984877d68dfb6afe840822715341d9090c89a4",
+      "source_relative_path": "MoTi/Mo2Ti1/xyz2poscar/struct_5239_3_relaxed.vasp",
+      "space_group_number": 19,
+      "space_group_symbol": "P2_12_12_1",
+      "system": "MoTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.3333333333333333
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.115976899375001,
+      "filename": "struct_11814_7_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 1,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.013866684189113812,
+      "mlip_formation_energy_eV_per_atom": -0.10072102473379552,
+      "number_of_atoms": 32,
+      "phase": "Mo3Ti1",
+      "reduced_formula": "TiMo3",
+      "sha256": "10a9fdffa26c6b23df008a71e9ed13e349d8150e34f587685d4a364d1600dd8f",
+      "source_relative_path": "MoTi/Mo3Ti1/xyz2poscar/struct_11814_7_relaxed.vasp",
+      "space_group_number": 139,
+      "space_group_symbol": "I4/mmm",
+      "system": "MoTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.25
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.11444371499999424,
+      "filename": "struct_9172_1_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.002690194938583801,
+      "mlip_formation_energy_eV_per_atom": -0.0812675079493405,
+      "number_of_atoms": 24,
+      "phase": "Mo5Ti1",
+      "reduced_formula": "TiMo5",
+      "sha256": "62b7a541abe605344b03b06f71176c2cde5346e9ff643c2b7e357800c8e55754",
+      "source_relative_path": "MoTi/Mo5Ti1/xyz2poscar/struct_9172_1_relaxed.vasp",
+      "space_group_number": 141,
+      "space_group_symbol": "I4_1/amd",
+      "system": "MoTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.16666666666666666
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.5185919535416753,
+      "filename": "struct_9684_2_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0011855819470897866,
+      "mlip_formation_energy_eV_per_atom": -0.48242474095921634,
+      "number_of_atoms": 48,
+      "phase": "Os1Ti2",
+      "reduced_formula": "Ti2Os",
+      "sha256": "7d478a99551dbc5313eb19d910baa0566683ca24c8a75d8bfd6333f37ffaac50",
+      "source_relative_path": "OsTi/Os1Ti2/xyz2poscar/struct_9684_2_relaxed.vasp",
+      "space_group_number": 63,
+      "space_group_symbol": "Cmcm",
+      "system": "OsTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.6666666666666666
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.3287763172500021,
+      "filename": "struct_3028_1_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0063658748307431345,
+      "mlip_formation_energy_eV_per_atom": -0.30252561865807054,
+      "number_of_atoms": 40,
+      "phase": "Os1Ti4",
+      "reduced_formula": "Ti4Os",
+      "sha256": "5a37aa25dd9bc6a3a0f358ee39b0867c4a91f12a4dd6bb55a08c36401ea4bd26",
+      "source_relative_path": "OsTi/Os1Ti4/xyz2poscar/struct_3028_1_relaxed.vasp",
+      "space_group_number": 2,
+      "space_group_symbol": "P-1",
+      "system": "OsTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.8
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.2770366337499984,
+      "filename": "struct_1653_2_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.00477176431779941,
+      "mlip_formation_energy_eV_per_atom": -0.25263781358954535,
+      "number_of_atoms": 24,
+      "phase": "Os1Ti5",
+      "reduced_formula": "Ti5Os",
+      "sha256": "6f36073bb5b142dfda58cccef911af46f3c61dc5570c6d48805596bf837110c2",
+      "source_relative_path": "OsTi/Os1Ti5/xyz2poscar/struct_1653_2_relaxed.vasp",
+      "space_group_number": 15,
+      "space_group_symbol": "C2/c",
+      "system": "OsTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.8333333333333334
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.6069205917500071,
+      "filename": "struct_2998_9_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.003228462491387085,
+      "mlip_formation_energy_eV_per_atom": -0.5583786252511501,
+      "number_of_atoms": 40,
+      "phase": "Os2Ti3",
+      "reduced_formula": "Ti3Os2",
+      "sha256": "aacf9455afa2753c65a5e8557cbce2e2335b89bf33ce8f5af8e33b93ddfca9f2",
+      "source_relative_path": "OsTi/Os2Ti3/xyz2poscar/struct_2998_9_relaxed.vasp",
+      "space_group_number": 139,
+      "space_group_symbol": "I4/mmm",
+      "system": "OsTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.6
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.6217815758333285,
+      "filename": "struct_4028_0_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 2,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.033152516281353406,
+      "mlip_formation_energy_eV_per_atom": -0.5932952499485948,
+      "number_of_atoms": 36,
+      "phase": "Pd2Ti1",
+      "reduced_formula": "TiPd2",
+      "sha256": "7c354889480d8c250aa53984f7b91b240a99d02a07f252fc0274e2490e2404f0",
+      "source_relative_path": "PdTi/Pd2Ti1/xyz2poscar/struct_4028_0_relaxed.vasp",
+      "space_group_number": 2,
+      "space_group_symbol": "P-1",
+      "system": "PdTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.3333333333333333
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0005411114583305787,
+      "dft_formation_energy_eV_per_atom": -0.6212404643749979,
+      "filename": "struct_5260_0_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 2,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.031171660305451043,
+      "mlip_formation_energy_eV_per_atom": -0.5952761059244972,
+      "number_of_atoms": 48,
+      "phase": "Pd2Ti1",
+      "reduced_formula": "TiPd2",
+      "sha256": "bb1d08c484c99a4f004202d08b777ffcb1a00f94641e276f7919b972674758f6",
+      "source_relative_path": "PdTi/Pd2Ti1/xyz2poscar/struct_5260_0_relaxed.vasp",
+      "space_group_number": 71,
+      "space_group_symbol": "Immm",
+      "system": "PdTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.3333333333333333
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.5469674459999958,
+      "filename": "struct_10117_2_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.016298974071008887,
+      "mlip_formation_energy_eV_per_atom": -0.47262594226014515,
+      "number_of_atoms": 40,
+      "phase": "Pd4Ti1",
+      "reduced_formula": "TiPd4",
+      "sha256": "862c35fd0735beade3aad8c32b5b20718917f68cf3adbf724158af00827cb339",
+      "source_relative_path": "PdTi/Pd4Ti1/xyz2poscar/struct_10117_2_relaxed.vasp",
+      "space_group_number": 51,
+      "space_group_symbol": "Pmma",
+      "system": "PdTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.2
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.4758077547916635,
+      "filename": "struct_10441_0_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.43232662865808064,
+      "number_of_atoms": 48,
+      "phase": "Pd5Ti1",
+      "reduced_formula": "TiPd5",
+      "sha256": "22a820a1779c9f1a3d599a39217056ef095c3dd97f1a5ff3bf0937bbebc2e31b",
+      "source_relative_path": "PdTi/Pd5Ti1/xyz2poscar/struct_10441_0_relaxed.vasp",
+      "space_group_number": 65,
+      "space_group_symbol": "Cmmm",
+      "system": "PdTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.16666666666666666
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0009344543750060552,
+      "dft_formation_energy_eV_per_atom": -0.6076021237499969,
+      "filename": "struct_10743_4_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 2,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.022182852749351722,
+      "mlip_formation_energy_eV_per_atom": -0.5940689495914526,
+      "number_of_atoms": 32,
+      "phase": "Pd5Ti3",
+      "reduced_formula": "Ti3Pd5",
+      "sha256": "404e5659233be8612dd99727334519e8299626c844532fcf49a72784d53e8d38",
+      "source_relative_path": "PdTi/Pd5Ti3/xyz2poscar/struct_10743_4_relaxed.vasp",
+      "space_group_number": 72,
+      "space_group_symbol": "Ibam",
+      "system": "PdTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.375
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.7916013481249973,
+      "filename": "struct_2031_0_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.7793067006964352,
+      "number_of_atoms": 32,
+      "phase": "Pt3Ti5",
+      "reduced_formula": "Ti5Pt3",
+      "sha256": "6f833784069153991108e1eeb2a81088aa8e69adb08b203981d41650c14a2ada",
+      "source_relative_path": "PtTi/Pt3Ti5/xyz2poscar/struct_2031_0_relaxed.vasp",
+      "space_group_number": 115,
+      "space_group_symbol": "P-4m2",
+      "system": "PtTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.625
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.7088980637499972,
+      "filename": "struct_10382_5_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.009233475088935017,
+      "mlip_formation_energy_eV_per_atom": -0.7083211776193827,
+      "number_of_atoms": 40,
+      "phase": "Pt4Ti1",
+      "reduced_formula": "TiPt4",
+      "sha256": "5fc609821168f011c173d6d437215f736c07666c5674cacbbb0546ab17707be0",
+      "source_relative_path": "PtTi/Pt4Ti1/xyz2poscar/struct_10382_5_relaxed.vasp",
+      "space_group_number": 11,
+      "space_group_symbol": "P2_1/m",
+      "system": "PtTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.2
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.000287433500000156,
+      "dft_formation_energy_eV_per_atom": -0.708610630249997,
+      "filename": "struct_10429_3_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.7175546527083178,
+      "number_of_atoms": 40,
+      "phase": "Pt4Ti1",
+      "reduced_formula": "TiPt4",
+      "sha256": "cb7380731824358be708f2d423c8cdc0060fc9eeb571b75bd68f84dd9a95a010",
+      "source_relative_path": "PtTi/Pt4Ti1/xyz2poscar/struct_10429_3_relaxed.vasp",
+      "space_group_number": 35,
+      "space_group_symbol": "Cmm2",
+      "system": "PtTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.2
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0006892256250052298,
+      "dft_formation_energy_eV_per_atom": -0.45492665937499766,
+      "filename": "struct_12547_5_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.013274371972641141,
+      "mlip_formation_energy_eV_per_atom": -0.41218623476248695,
+      "number_of_atoms": 32,
+      "phase": "Rh1Ti3",
+      "reduced_formula": "Ti3Rh",
+      "sha256": "7c435167b297984cdbdcd7455850b2873d5e1f1b66c3108580ad05ea03bf60f5",
+      "source_relative_path": "RhTi/Rh1Ti3/xyz2poscar/struct_12547_5_relaxed.vasp",
+      "space_group_number": 11,
+      "space_group_symbol": "P2_1/m",
+      "system": "RhTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.75
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0005626415972268539,
+      "dft_formation_energy_eV_per_atom": -0.7099171652777758,
+      "filename": "struct_4082_7_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.013888994584953962,
+      "mlip_formation_energy_eV_per_atom": -0.6855473480131459,
+      "number_of_atoms": 36,
+      "phase": "Rh2Ti1",
+      "reduced_formula": "TiRh2",
+      "sha256": "17e55f01fc9f95bba0d67cd02e154c7a392df628f2e54dd957417ca133dbd146",
+      "source_relative_path": "RhTi/Rh2Ti1/xyz2poscar/struct_4082_7_relaxed.vasp",
+      "space_group_number": 62,
+      "space_group_symbol": "Pnma",
+      "system": "RhTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.3333333333333333
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.7660804752499999,
+      "filename": "struct_10030_1_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.7525703584387287,
+      "number_of_atoms": 40,
+      "phase": "Rh3Ti2",
+      "reduced_formula": "Ti2Rh3",
+      "sha256": "89f4b3cb99a84026e6e6b4bc52120bf3c0d817402880b31dfecbb52243ac8812",
+      "source_relative_path": "RhTi/Rh3Ti2/xyz2poscar/struct_10030_1_relaxed.vasp",
+      "space_group_number": 14,
+      "space_group_symbol": "P2_1/c",
+      "system": "RhTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.4
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.4955930655000017,
+      "filename": "struct_10333_9_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.004245281626533148,
+      "mlip_formation_energy_eV_per_atom": -0.49782166179827103,
+      "number_of_atoms": 40,
+      "phase": "Rh4Ti1",
+      "reduced_formula": "TiRh4",
+      "sha256": "6df5d0b9074e4f473c039eec14a882de2074f9818db1ea1bba6f3697f2c7ae4e",
+      "source_relative_path": "RhTi/Rh4Ti1/xyz2poscar/struct_10333_9_relaxed.vasp",
+      "space_group_number": 12,
+      "space_group_symbol": "C2/m",
+      "system": "RhTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.2
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.517054121458339,
+      "filename": "struct_9327_7_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.485364661175943,
+      "number_of_atoms": 48,
+      "phase": "Ru1Ti2",
+      "reduced_formula": "Ti2Ru",
+      "sha256": "f794c37cbb70b7032036472d9890f510f23b2ed7fc3028203c1d5ed418f3eeee",
+      "source_relative_path": "RuTi/Ru1Ti2/xyz2poscar/struct_9327_7_relaxed.vasp",
+      "space_group_number": 58,
+      "space_group_symbol": "Pnnm",
+      "system": "RuTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.6666666666666666
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.31377679400000175,
+      "filename": "struct_2664_4_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 1,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.01448514545324986,
+      "mlip_formation_energy_eV_per_atom": -0.27673365125231586,
+      "number_of_atoms": 40,
+      "phase": "Ru1Ti4",
+      "reduced_formula": "Ti4Ru",
+      "sha256": "9f52f2ea491bc01e070b1a64c00de2389cde460560a6b02d79dd6e8775e615d1",
+      "source_relative_path": "RuTi/Ru1Ti4/xyz2poscar/struct_2664_4_relaxed.vasp",
+      "space_group_number": 2,
+      "space_group_symbol": "P-1",
+      "system": "RuTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.8
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.2626818891666692,
+      "filename": "struct_674_4_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.020690638722488275,
+      "mlip_formation_energy_eV_per_atom": -0.22199169186548318,
+      "number_of_atoms": 12,
+      "phase": "Ru1Ti5",
+      "reduced_formula": "Ti5Ru",
+      "sha256": "fcdb84f62ca4eda2587261d19b27902db6e062053058d01536cb00f06fffa3e2",
+      "source_relative_path": "RuTi/Ru1Ti5/xyz2poscar/struct_674_4_relaxed.vasp",
+      "space_group_number": 15,
+      "space_group_symbol": "C2/c",
+      "system": "RuTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.8333333333333334
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.6142062447500123,
+      "filename": "struct_13563_0_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.5792099334620616,
+      "number_of_atoms": 80,
+      "phase": "Ru2Ti3",
+      "reduced_formula": "Ti3Ru2",
+      "sha256": "6bc0cb1a74c3662183946384fcef4b7e09e6f6e2e6f20c471c859000c71a2eee",
+      "source_relative_path": "RuTi/Ru2Ti3/xyz2poscar/struct_13563_0_relaxed.vasp",
+      "space_group_number": 139,
+      "space_group_symbol": "I4/mmm",
+      "system": "RuTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.6
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.6548900260714399,
+      "filename": "struct_3469_8_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 5.492273530194325e-05,
+      "mlip_formation_energy_eV_per_atom": -0.6178225282979487,
+      "number_of_atoms": 56,
+      "phase": "Ru3Ti4",
+      "reduced_formula": "Ti4Ru3",
+      "sha256": "55d5ae41ed40acc444e3bad934f52c2bfbb37f59ccd3133b1925620fedde736c",
+      "source_relative_path": "RuTi/Ru3Ti4/xyz2poscar/struct_3469_8_relaxed.vasp",
+      "space_group_number": 123,
+      "space_group_symbol": "P4/mmm",
+      "system": "RuTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.5714285714285714
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.16651885300000327,
+      "filename": "struct_20443_3_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.02758231310487716,
+      "mlip_formation_energy_eV_per_atom": -0.15026600346348004,
+      "number_of_atoms": 60,
+      "phase": "Ti1Zn4",
+      "reduced_formula": "TiZn4",
+      "sha256": "d85cad9a5030291c2cc328f8d72391e435ee0d27f44007641853a7900fb4a373",
+      "source_relative_path": "TiZn/Ti1Zn4/xyz2poscar/struct_20443_3_relaxed.vasp",
+      "space_group_number": 123,
+      "space_group_symbol": "P4/mmm",
+      "system": "TiZn",
+      "target_element": "Zn",
+      "target_element_fraction": 0.8
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0009181952083331668,
+      "dft_formation_energy_eV_per_atom": -0.13897923604166973,
+      "filename": "struct_2526_3_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.016448420479056536,
+      "mlip_formation_energy_eV_per_atom": -0.13175850999457447,
+      "number_of_atoms": 48,
+      "phase": "Ti1Zn5",
+      "reduced_formula": "TiZn5",
+      "sha256": "b4c95a7cb06c5269590b91b6c815ec64e86ae91e497de38a44115007db7e5b0d",
+      "source_relative_path": "TiZn/Ti1Zn5/xyz2poscar/struct_2526_3_relaxed.vasp",
+      "space_group_number": 123,
+      "space_group_symbol": "P4/mmm",
+      "system": "TiZn",
+      "target_element": "Zn",
+      "target_element_fraction": 0.8333333333333334
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.1398974312500029,
+      "filename": "struct_2882_8_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.017090825658150705,
+      "mlip_formation_energy_eV_per_atom": -0.1311161048154803,
+      "number_of_atoms": 48,
+      "phase": "Ti1Zn5",
+      "reduced_formula": "TiZn5",
+      "sha256": "fe3143dc7c33805a7314d198deea122a75195ca212a233f36037e6ec1c98723c",
+      "source_relative_path": "TiZn/Ti1Zn5/xyz2poscar/struct_2882_8_relaxed.vasp",
+      "space_group_number": 139,
+      "space_group_symbol": "I4/mmm",
+      "system": "TiZn",
+      "target_element": "Zn",
+      "target_element_fraction": 0.8333333333333334
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.18488383696427593,
+      "filename": "struct_12635_1_relaxed.vasp",
+      "materials_project_match": false,
+      "materials_project_references_checked": 0,
+      "mlip_distance_to_search_hull_eV_per_atom": 0.004714811194992702,
+      "mlip_formation_energy_eV_per_atom": -0.18600749786374596,
+      "number_of_atoms": 56,
+      "phase": "Ti4Zn3",
+      "reduced_formula": "Ti4Zn3",
+      "sha256": "fed35db03ba202ca25ef1cd6fe987ad5c024073cc06bcd7e58540fe2fc4f69eb",
+      "source_relative_path": "TiZn/Ti4Zn3/xyz2poscar/struct_12635_1_relaxed.vasp",
+      "space_group_number": 139,
+      "space_group_symbol": "I4/mmm",
+      "system": "TiZn",
+      "target_element": "Zn",
+      "target_element_fraction": 0.42857142857142855
+    }
+  ],
+  "reviewable_exclusions": [
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.4033405803124994,
+      "filename": "struct_4092_8_relaxed.vasp",
+      "matched_reference": "mp-1953_AlTi_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.447957440426598,
+      "phase": "Al1Ti1",
+      "reason": "matches_materials_project_reference",
+      "system": "AlTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.5
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.42684454041666875,
+      "filename": "struct_3190_0_relaxed.vasp",
+      "matched_reference": "mp-567705_Al2Ti_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0015722996168759384,
+      "mlip_formation_energy_eV_per_atom": -0.4348216578541943,
+      "phase": "Al2Ti1",
+      "reason": "matches_materials_project_reference",
+      "system": "AlTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.3333333333333333
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.4405288012500013,
+      "filename": "struct_2265_2_relaxed.vasp",
+      "matched_reference": "mp-12657_Al2Hf_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.010916234618472742,
+      "mlip_formation_energy_eV_per_atom": -0.4059899610190332,
+      "phase": "Al2Hf1",
+      "reason": "matches_materials_project_reference",
+      "system": "AlHf",
+      "target_element": "Hf",
+      "target_element_fraction": 0.3333333333333333
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.389679334464281,
+      "filename": "struct_4978_6_relaxed.vasp",
+      "matched_reference": "mp-1025223_Al3Hf4_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0011887912141425039,
+      "mlip_formation_energy_eV_per_atom": -0.3466753806541334,
+      "phase": "Al3Hf4",
+      "reason": "matches_materials_project_reference",
+      "system": "AlHf",
+      "target_element": "Hf",
+      "target_element_fraction": 0.5714285714285714
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.46072288749999935,
+      "filename": "struct_1557_9_relaxed.vasp",
+      "matched_reference": "mp-331_AlSc_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.000516945894970533,
+      "mlip_formation_energy_eV_per_atom": -0.47903209135495484,
+      "phase": "Al1Sc1",
+      "reason": "matches_materials_project_reference",
+      "system": "AlSc",
+      "target_element": "Sc",
+      "target_element_fraction": 0.5
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.3442944002777766,
+      "filename": "struct_10415_4_relaxed.vasp",
+      "matched_reference": "mp-11220_AlSc2_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.3550313973881877,
+      "phase": "Al1Sc2",
+      "reason": "matches_materials_project_reference",
+      "system": "AlSc",
+      "target_element": "Sc",
+      "target_element_fraction": 0.6666666666666666
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.2648530293749995,
+      "filename": "struct_19783_3_relaxed.vasp",
+      "matched_reference": "mp-862259_AlSc3_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.27754823488319386,
+      "phase": "Al1Sc3",
+      "reason": "matches_materials_project_reference",
+      "system": "AlSc",
+      "target_element": "Sc",
+      "target_element_fraction": 0.75
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.4505158739583308,
+      "filename": "struct_12506_2_relaxed.vasp",
+      "matched_reference": "mp-2121_Al3Sc_2_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.46048856884708833,
+      "phase": "Al3Sc1",
+      "reason": "matches_materials_project_reference",
+      "system": "AlSc",
+      "target_element": "Sc",
+      "target_element_fraction": 0.25
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.902746996249998,
+      "filename": "struct_2552_3_relaxed.vasp",
+      "matched_reference": "mp-7189_AlPd_2_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.8805461717322315,
+      "phase": "Al1Pd1",
+      "reason": "matches_materials_project_reference",
+      "system": "AlPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.5
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.00021894875000272318,
+      "dft_formation_energy_eV_per_atom": -0.835230394687497,
+      "filename": "struct_1520_6_relaxed.vasp",
+      "matched_reference": "mp-16523_Al3Pd5_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.8244391999449245,
+      "phase": "Al3Pd5",
+      "reason": "matches_materials_project_reference",
+      "system": "AlPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.625
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.43767856750000017,
+      "filename": "struct_1839_7_relaxed.vasp",
+      "matched_reference": "mp-2647_Al2Au_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.4324383065661343,
+      "phase": "Al2Au1",
+      "reason": "matches_materials_project_reference",
+      "system": "AlAu",
+      "target_element": "Au",
+      "target_element_fraction": 0.3333333333333333
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.00031202625000137374,
+      "dft_formation_energy_eV_per_atom": -0.7279580187499985,
+      "filename": "struct_4527_4_relaxed.vasp",
+      "matched_reference": "mp-506_MgPd_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.7080614160483463,
+      "phase": "Mg1Pd1",
+      "reason": "matches_materials_project_reference",
+      "system": "MgPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.5
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.5916441002777751,
+      "filename": "struct_9388_2_relaxed.vasp",
+      "matched_reference": "mp-12741_MgPd2_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.004453459943793536,
+      "mlip_formation_energy_eV_per_atom": -0.5554331987227089,
+      "phase": "Mg1Pd2",
+      "reason": "matches_materials_project_reference",
+      "system": "MgPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.6666666666666666
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.6369624381249981,
+      "filename": "struct_2159_8_relaxed.vasp",
+      "matched_reference": "mp-1210703_Mg3Pd5_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.6005272344245389,
+      "phase": "Mg3Pd5",
+      "reason": "matches_materials_project_reference",
+      "system": "MgPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.625
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.04631495281249931,
+      "filename": "struct_11364_8_relaxed.vasp",
+      "matched_reference": "mp-1185790_Mg3Sc_2_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.050773593527079885,
+      "phase": "Mg3Sc1",
+      "reason": "matches_materials_project_reference",
+      "system": "MgSc",
+      "target_element": "Sc",
+      "target_element_fraction": 0.25
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.060766787222224,
+      "filename": "struct_1684_8_relaxed.vasp",
+      "matched_reference": "mp-979115_AgTi2_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.0520769135965256,
+      "phase": "Ag1Ti2",
+      "reason": "matches_materials_project_reference",
+      "system": "AgTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.6666666666666666
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.7362708356249952,
+      "filename": "struct_3749_4_relaxed.vasp",
+      "matched_reference": "mp-11563_RhTi_2_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.7492138742748082,
+      "phase": "Rh1Ti1",
+      "reason": "matches_materials_project_reference",
+      "system": "RhTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.5
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.6074878466666706,
+      "filename": "struct_9707_3_relaxed.vasp",
+      "matched_reference": "mp-1018124_RhTi2_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.5554329984025976,
+      "phase": "Rh1Ti2",
+      "reason": "matches_materials_project_reference",
+      "system": "RhTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.6666666666666666
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.619313453750002,
+      "filename": "struct_6363_0_relaxed.vasp",
+      "matched_reference": "mp-1152_Rh3Ti_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.6275836792810052,
+      "phase": "Rh3Ti1",
+      "reason": "matches_materials_project_reference",
+      "system": "RhTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.25
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.36131232406249936,
+      "filename": "struct_2653_0_relaxed.vasp",
+      "matched_reference": "mp-1786_AuTi3_2_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.38647019051202225,
+      "phase": "Au1Ti3",
+      "reason": "matches_materials_project_reference",
+      "system": "AuTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.75
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0007398795833317706,
+      "dft_formation_energy_eV_per_atom": -0.43654653708333474,
+      "filename": "struct_1898_0_relaxed.vasp",
+      "matched_reference": "mp-1018123_Au2Ti_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.4422529653831475,
+      "phase": "Au2Ti1",
+      "reason": "matches_materials_project_reference",
+      "system": "AuTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.3333333333333333
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0007586789999997623,
+      "dft_formation_energy_eV_per_atom": -0.288762569,
+      "filename": "struct_425_relaxed.vasp",
+      "matched_reference": "mp-12635_Au4Ti_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.008311452115793816,
+      "mlip_formation_energy_eV_per_atom": -0.27288908521314353,
+      "phase": "Au4Ti1",
+      "reason": "matches_materials_project_reference",
+      "system": "AuTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.2
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.1965224889583362,
+      "filename": "struct_14853_0_relaxed.vasp",
+      "matched_reference": "mp-21289_TiZn3_2_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.22231039571044656,
+      "phase": "Ti1Zn3",
+      "reason": "matches_materials_project_reference",
+      "system": "TiZn",
+      "target_element": "Zn",
+      "target_element_fraction": 0.75
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.15884444208333667,
+      "filename": "struct_1781_6_relaxed.vasp",
+      "matched_reference": "mp-1014229_Ti2Zn_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 9.898568607788483e-05,
+      "mlip_formation_energy_eV_per_atom": -0.15650771575393327,
+      "phase": "Ti2Zn1",
+      "reason": "matches_materials_project_reference",
+      "system": "TiZn",
+      "target_element": "Zn",
+      "target_element_fraction": 0.3333333333333333
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.8661313200000027,
+      "filename": "struct_1393_4_relaxed.vasp",
+      "matched_reference": "mp-12594_IrTi_2_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.8054659430003843,
+      "phase": "Ir1Ti1",
+      "reason": "matches_materials_project_reference",
+      "system": "IrTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.5
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.5774210153124972,
+      "filename": "struct_2601_0_relaxed.vasp",
+      "matched_reference": "mp-544_IrTi3_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.5554081159595965,
+      "phase": "Ir1Ti3",
+      "reason": "matches_materials_project_reference",
+      "system": "IrTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.75
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.7495014256250023,
+      "filename": "struct_1329_5_relaxed.vasp",
+      "matched_reference": "mp-592_RuTi_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.7139196616556154,
+      "phase": "Ru1Ti1",
+      "reason": "matches_materials_project_reference",
+      "system": "RuTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.5
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.4415562487500016,
+      "filename": "struct_8987_1_relaxed.vasp",
+      "matched_reference": "mp-13164_PdTi2_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.433644846597911,
+      "phase": "Pd1Ti2",
+      "reason": "matches_materials_project_reference",
+      "system": "PdTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.6666666666666666
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.33173839374999936,
+      "filename": "struct_10402_0_relaxed.vasp",
+      "matched_reference": "mp-1079796_PdTi3_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.3530453987514415,
+      "phase": "Pd1Ti3",
+      "reason": "matches_materials_project_reference",
+      "system": "PdTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.75
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.00041045171429332505,
+      "dft_formation_energy_eV_per_atom": -0.5938135267499952,
+      "filename": "struct_10078_6_relaxed.vasp",
+      "matched_reference": "mp-30840_Pd3Ti2_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.610134224007318,
+      "phase": "Pd3Ti2",
+      "reason": "matches_materials_project_reference",
+      "system": "PdTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.4
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.608536578125003,
+      "filename": "struct_12742_7_relaxed.vasp",
+      "matched_reference": "mp-570199_Pd5Ti3_2_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0003133986779102482,
+      "mlip_formation_energy_eV_per_atom": -0.6159384036628941,
+      "phase": "Pd5Ti3",
+      "reason": "matches_materials_project_reference",
+      "system": "PdTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.375
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.00045201812500117455,
+      "dft_formation_energy_eV_per_atom": -0.9206056231249979,
+      "filename": "struct_3835_5_relaxed.vasp",
+      "matched_reference": "mp-11552_PtTi_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.912277186719626,
+      "phase": "Pt1Ti1",
+      "reason": "matches_materials_project_reference",
+      "system": "PtTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.5
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 2.5000002068509275e-09,
+      "dft_formation_energy_eV_per_atom": -0.637581390624999,
+      "filename": "struct_10506_0_relaxed.vasp",
+      "matched_reference": "mp-2339_PtTi3_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.6424717944412306,
+      "phase": "Pt1Ti3",
+      "reason": "matches_materials_project_reference",
+      "system": "PtTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.75
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.7298280581249994,
+      "filename": "struct_1397_0_relaxed.vasp",
+      "matched_reference": "mp-291_OsTi_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.6786022349968839,
+      "phase": "Os1Ti1",
+      "reason": "matches_materials_project_reference",
+      "system": "OsTi",
+      "target_element": "Ti",
+      "target_element_fraction": 0.5
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.1535826118749979,
+      "filename": "struct_3142_4_relaxed.vasp",
+      "matched_reference": "mp-1018029_CuPd_2_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.13969781613589038,
+      "phase": "Cu1Pd1",
+      "reason": "matches_materials_project_reference",
+      "system": "CuPd",
+      "target_element": "Pd",
+      "target_element_fraction": 0.5
+    },
+    {
+      "filename": "struct_24405_0_relaxed.vasp",
+      "phase": "Cu1Y3",
+      "reason": "missing_dft_formation_energy",
+      "system": "CuY"
+    },
+    {
+      "filename": "struct_24405_2_relaxed.vasp",
+      "phase": "Cu1Y3",
+      "reason": "missing_dft_formation_energy",
+      "system": "CuY"
+    },
+    {
+      "filename": "struct_10410_2_relaxed.vasp",
+      "phase": "Cu1Y4",
+      "reason": "missing_dft_formation_energy",
+      "system": "CuY"
+    },
+    {
+      "dft_distance_to_combined_hull_eV_per_atom": 0.0,
+      "dft_formation_energy_eV_per_atom": -0.3137357931249998,
+      "filename": "struct_4002_2_relaxed.vasp",
+      "matched_reference": "mp-1169_CuSc_1_relaxed.vasp",
+      "mlip_distance_to_search_hull_eV_per_atom": 0.0,
+      "mlip_formation_energy_eV_per_atom": -0.1793925118800419,
+      "phase": "Cu1Sc1",
+      "reason": "matches_materials_project_reference",
+      "system": "CuSc",
+      "target_element": "Sc",
+      "target_element_fraction": 0.5
+    }
+  ],
+  "selection": {
+    "candidate_filename_prefix": "struc",
+    "dft_deduplication": true,
+    "dft_hull_reference": "combined struc and mp binary DFT lower hull",
+    "dft_threshold_eV_per_atom": 0.001,
+    "materials_project_filename_prefix": "mp-",
+    "mlip_hull_reference": "struc-only binary MLIP lower hull",
+    "mlip_threshold_eV_per_atom": 0.05,
+    "structure_matcher": {
+      "angle_tol_degrees": 5.0,
+      "attempt_supercell": true,
+      "ltol": 0.2,
+      "primitive_cell": true,
+      "scale": true,
+      "stol": 0.3
+    },
+    "systems": [
+      "AlTi",
+      "AlHf",
+      "AlNb",
+      "AlSc",
+      "AlPd",
+      "AlAu",
+      "MgPd",
+      "MgSc",
+      "AgTi",
+      "RhTi",
+      "AuTi",
+      "TiZn",
+      "IrTi",
+      "RuTi",
+      "PdTi",
+      "PtTi",
+      "MoTi",
+      "OsTi",
+      "CuPd",
+      "CuY",
+      "CuSc"
+    ]
+  },
+  "systems": {
+    "AgTi": {
+      "candidate_files": 116,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.06066425000000031,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.060766787222224,
+          "target_element_fraction": 0.6666666666666666
+        }
+      ],
+      "excluded_above_dft_threshold": 115,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 1,
+      "materials_project_reference_files": 4,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.0520769135965256,
+          "target_element_fraction": 0.6666666666666666
+        }
+      ],
+      "selected_before_deduplication": 0,
+      "selected_representatives": 0
+    },
+    "AlAu": {
+      "candidate_files": 131,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.43767856750000017,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.3970528187500002,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.32932658833333345,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.22052047199999975,
+          "target_element_fraction": 0.8
+        }
+      ],
+      "excluded_above_dft_threshold": 130,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 1,
+      "materials_project_reference_files": 10,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.4324383065661343,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.3247326432495785,
+          "target_element_fraction": 0.625
+        },
+        {
+          "formation_energy_eV_per_atom": -0.2881740602747818,
+          "target_element_fraction": 0.6923076923076923
+        },
+        {
+          "formation_energy_eV_per_atom": -0.24841464048218898,
+          "target_element_fraction": 0.75
+        },
+        {
+          "formation_energy_eV_per_atom": -0.20012752436349218,
+          "target_element_fraction": 0.8
+        },
+        {
+          "formation_energy_eV_per_atom": -0.16789109335117006,
+          "target_element_fraction": 0.8333333333333334
+        }
+      ],
+      "selected_before_deduplication": 0,
+      "selected_representatives": 0
+    },
+    "AlHf": {
+      "candidate_files": 154,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.39766458999999976,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4405288012500013,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.389679334464281,
+          "target_element_fraction": 0.5714285714285714
+        },
+        {
+          "formation_energy_eV_per_atom": -0.22800123708332976,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "excluded_above_dft_threshold": 149,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 2,
+      "materials_project_reference_files": 11,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.39631514780631605,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4169061956375059,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.39400878645418036,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.2325026354035147,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "selected_before_deduplication": 3,
+      "selected_representatives": 3
+    },
+    "AlNb": {
+      "candidate_files": 60,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.40940984000000036,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.2804301493333346,
+          "target_element_fraction": 0.6666666666666666
+        }
+      ],
+      "excluded_above_dft_threshold": 60,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 0,
+      "materials_project_reference_files": 4,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.41536293620696857,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.32316253999726285,
+          "target_element_fraction": 0.5714285714285714
+        }
+      ],
+      "selected_before_deduplication": 0,
+      "selected_representatives": 0
+    },
+    "AlPd": {
+      "candidate_files": 179,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.7632554779999999,
+          "target_element_fraction": 0.4
+        },
+        {
+          "formation_energy_eV_per_atom": -0.902746996249998,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.8130167925000004,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6373318252083292,
+          "target_element_fraction": 0.75
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4487401083333313,
+          "target_element_fraction": 0.8333333333333334
+        }
+      ],
+      "excluded_above_dft_threshold": 176,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 2,
+      "materials_project_reference_files": 10,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.6123729512400864,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.8805461717322315,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.8244391999449245,
+          "target_element_fraction": 0.625
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7804875570130504,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6919690359094882,
+          "target_element_fraction": 0.7142857142857143
+        },
+        {
+          "formation_energy_eV_per_atom": -0.5115665205461241,
+          "target_element_fraction": 0.8
+        }
+      ],
+      "selected_before_deduplication": 1,
+      "selected_representatives": 1
+    },
+    "AlSc": {
+      "candidate_files": 137,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.4505158739583308,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.48488065333333275,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.46072288749999935,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.3442944002777766,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.2648530293749995,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "excluded_above_dft_threshold": 133,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 4,
+      "materials_project_reference_files": 8,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.46048856884708833,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.5099895221403001,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.47954903724992537,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.3550313973881877,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.27754823488319386,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "selected_before_deduplication": 0,
+      "selected_representatives": 0
+    },
+    "AlTi": {
+      "candidate_files": 111,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.40221285291666814,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.42684454041666875,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4033405803124994,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.3677174387500009,
+          "target_element_fraction": 0.5714285714285714
+        },
+        {
+          "formation_energy_eV_per_atom": -0.2695079999999992,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "excluded_above_dft_threshold": 106,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 2,
+      "materials_project_reference_files": 15,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.4131631574063667,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.43639395747107024,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.44042000163776684,
+          "target_element_fraction": 0.375
+        },
+        {
+          "formation_energy_eV_per_atom": -0.447957440426598,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.30192725127225906,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "selected_before_deduplication": 3,
+      "selected_representatives": 3
+    },
+    "AuTi": {
+      "candidate_files": 127,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.2895212479999998,
+          "target_element_fraction": 0.2
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4372864166666665,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4332464424999998,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.36131232406249936,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "excluded_above_dft_threshold": 124,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 3,
+      "materials_project_reference_files": 10,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.28120053732893735,
+          "target_element_fraction": 0.2
+        },
+        {
+          "formation_energy_eV_per_atom": -0.34427943249511817,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4422529653831475,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.42518697480329504,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.38647019051202225,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "selected_before_deduplication": 0,
+      "selected_representatives": 0
+    },
+    "CuPd": {
+      "candidate_files": 142,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.12561468687499833,
+          "target_element_fraction": 0.16666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.1383329557499998,
+          "target_element_fraction": 0.2
+        },
+        {
+          "formation_energy_eV_per_atom": -0.1546603387499991,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.1535826118749979,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.05579876499999633,
+          "target_element_fraction": 0.8333333333333334
+        }
+      ],
+      "excluded_above_dft_threshold": 131,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 1,
+      "materials_project_reference_files": 9,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.1079984287289258,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.13969781613589038,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.07041547743777743,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "selected_before_deduplication": 10,
+      "selected_representatives": 10
+    },
+    "CuSc": {
+      "candidate_files": 146,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.20905160166666725,
+          "target_element_fraction": 0.16666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.280716846666667,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.3137357931249998,
+          "target_element_fraction": 0.5
+        }
+      ],
+      "excluded_above_dft_threshold": 143,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 1,
+      "materials_project_reference_files": 4,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.1364856666186641,
+          "target_element_fraction": 0.16666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.1801588549669919,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.1793925118800419,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.1410436831764379,
+          "target_element_fraction": 0.6666666666666666
+        }
+      ],
+      "selected_before_deduplication": 2,
+      "selected_representatives": 2
+    },
+    "CuY": {
+      "candidate_files": 128,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.25782322833333343,
+          "target_element_fraction": 0.16666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.8513505244999995,
+          "target_element_fraction": 0.6
+        }
+      ],
+      "excluded_above_dft_threshold": 127,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 0,
+      "materials_project_reference_files": 7,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.18027892937320011,
+          "target_element_fraction": 0.16666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.21694700693798374,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.2271630402237994,
+          "target_element_fraction": 0.5
+        }
+      ],
+      "selected_before_deduplication": 1,
+      "selected_representatives": 1
+    },
+    "IrTi": {
+      "candidate_files": 123,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.7173851099999986,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7934308781250117,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.8661313200000027,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7079696404166652,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.5774210153124972,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "excluded_above_dft_threshold": 118,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 2,
+      "materials_project_reference_files": 6,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.6893586949522419,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.8054659430003843,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7068302579214976,
+          "target_element_fraction": 0.625
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6574035161206654,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.5554081159595965,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "selected_before_deduplication": 3,
+      "selected_representatives": 3
+    },
+    "MgPd": {
+      "candidate_files": 118,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.34714158449999954,
+          "target_element_fraction": 0.2
+        },
+        {
+          "formation_energy_eV_per_atom": -0.42515874416666666,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4763943167857135,
+          "target_element_fraction": 0.2857142857142857
+        },
+        {
+          "formation_energy_eV_per_atom": -0.5363733787500001,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7282700449999999,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6617440254999977,
+          "target_element_fraction": 0.6
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6369624381249981,
+          "target_element_fraction": 0.625
+        },
+        {
+          "formation_energy_eV_per_atom": -0.5916441002777751,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4834885550000001,
+          "target_element_fraction": 0.75
+        },
+        {
+          "formation_energy_eV_per_atom": -0.3976174414999967,
+          "target_element_fraction": 0.8
+        }
+      ],
+      "excluded_above_dft_threshold": 110,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 3,
+      "materials_project_reference_files": 14,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.3248025354299632,
+          "target_element_fraction": 0.2
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4041319346996251,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.5115561972489839,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7080614160483463,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6005272344245389,
+          "target_element_fraction": 0.625
+        },
+        {
+          "formation_energy_eV_per_atom": -0.47860550715042943,
+          "target_element_fraction": 0.75
+        },
+        {
+          "formation_energy_eV_per_atom": -0.3871414698531176,
+          "target_element_fraction": 0.8
+        }
+      ],
+      "selected_before_deduplication": 5,
+      "selected_representatives": 5
+    },
+    "MgSc": {
+      "candidate_files": 152,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.04631495281249931,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.04741377999999985,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.03174380333333282,
+          "target_element_fraction": 0.6666666666666666
+        }
+      ],
+      "excluded_above_dft_threshold": 151,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 1,
+      "materials_project_reference_files": 18,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.050773593527079885,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.08052058004180251,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.03249542015063511,
+          "target_element_fraction": 0.8
+        }
+      ],
+      "selected_before_deduplication": 0,
+      "selected_representatives": 0
+    },
+    "MoTi": {
+      "candidate_files": 148,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.11444371499999424,
+          "target_element_fraction": 0.16666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.115976899375001,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.11371155541666174,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.10126848687499823,
+          "target_element_fraction": 0.5
+        }
+      ],
+      "excluded_above_dft_threshold": 143,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 0,
+      "materials_project_reference_files": 4,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.0839577028879243,
+          "target_element_fraction": 0.16666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.11458770892290933,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.11721009499833457,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.11864116117090759,
+          "target_element_fraction": 0.4
+        },
+        {
+          "formation_energy_eV_per_atom": -0.11206601504268576,
+          "target_element_fraction": 0.5
+        }
+      ],
+      "selected_before_deduplication": 5,
+      "selected_representatives": 5
+    },
+    "OsTi": {
+      "candidate_files": 114,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.7298280581249994,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6069205917500071,
+          "target_element_fraction": 0.6
+        },
+        {
+          "formation_energy_eV_per_atom": -0.5185919535416753,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.3287763172500021,
+          "target_element_fraction": 0.8
+        },
+        {
+          "formation_energy_eV_per_atom": -0.2770366337499984,
+          "target_element_fraction": 0.8333333333333334
+        }
+      ],
+      "excluded_above_dft_threshold": 109,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 1,
+      "materials_project_reference_files": 4,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.4914990430458606,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6786022349968839,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.3861143668610172,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "selected_before_deduplication": 4,
+      "selected_representatives": 4
+    },
+    "PdTi": {
+      "candidate_files": 147,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.4758077547916635,
+          "target_element_fraction": 0.16666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.5469674459999958,
+          "target_element_fraction": 0.2
+        },
+        {
+          "formation_energy_eV_per_atom": -0.640699106875001,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6217815758333285,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.608536578125003,
+          "target_element_fraction": 0.375
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4415562487500016,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.33173839374999936,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "excluded_above_dft_threshold": 138,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 4,
+      "materials_project_reference_files": 14,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.43232662865808064,
+          "target_element_fraction": 0.16666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.573822347840764,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6264477662299482,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.610134224007318,
+          "target_element_fraction": 0.4
+        },
+        {
+          "formation_energy_eV_per_atom": -0.433644846597911,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.3530453987514415,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "selected_before_deduplication": 5,
+      "selected_representatives": 5
+    },
+    "PtTi": {
+      "candidate_files": 114,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.7088980637499972,
+          "target_element_fraction": 0.2
+        },
+        {
+          "formation_energy_eV_per_atom": -0.8574755765178566,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.936861128437501,
+          "target_element_fraction": 0.375
+        },
+        {
+          "formation_energy_eV_per_atom": -0.9210576412499991,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7916013481249973,
+          "target_element_fraction": 0.625
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6375813931249992,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "excluded_above_dft_threshold": 109,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 2,
+      "materials_project_reference_files": 8,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.7175546527083178,
+          "target_element_fraction": 0.2
+        },
+        {
+          "formation_energy_eV_per_atom": -0.8535768351513061,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.8865258527216651,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.9021146853673354,
+          "target_element_fraction": 0.375
+        },
+        {
+          "formation_energy_eV_per_atom": -0.9076043046736281,
+          "target_element_fraction": 0.4
+        },
+        {
+          "formation_energy_eV_per_atom": -0.9134270967345353,
+          "target_element_fraction": 0.42857142857142855
+        },
+        {
+          "formation_energy_eV_per_atom": -0.912277186719626,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7793067006964352,
+          "target_element_fraction": 0.625
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6424717944412306,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "selected_before_deduplication": 3,
+      "selected_representatives": 3
+    },
+    "RhTi": {
+      "candidate_files": 133,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.4955930655000017,
+          "target_element_fraction": 0.2
+        },
+        {
+          "formation_energy_eV_per_atom": -0.619313453750002,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.756062983437503,
+          "target_element_fraction": 0.375
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7660804752499999,
+          "target_element_fraction": 0.4
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7362708356249952,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6074878466666706,
+          "target_element_fraction": 0.6666666666666666
+        }
+      ],
+      "excluded_above_dft_threshold": 126,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 3,
+      "materials_project_reference_files": 5,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.6275836792810052,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7353626742566473,
+          "target_element_fraction": 0.375
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7525703584387287,
+          "target_element_fraction": 0.4
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7540823322797691,
+          "target_element_fraction": 0.42857142857142855
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7492138742748082,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6056417059112604,
+          "target_element_fraction": 0.625
+        },
+        {
+          "formation_energy_eV_per_atom": -0.5554329984025976,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4254606067351281,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "selected_before_deduplication": 4,
+      "selected_representatives": 4
+    },
+    "RuTi": {
+      "candidate_files": 71,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.7495014256250023,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6548900260714399,
+          "target_element_fraction": 0.5714285714285714
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6142062447500123,
+          "target_element_fraction": 0.6
+        },
+        {
+          "formation_energy_eV_per_atom": -0.517054121458339,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.31377679400000175,
+          "target_element_fraction": 0.8
+        },
+        {
+          "formation_energy_eV_per_atom": -0.2626818891666692,
+          "target_element_fraction": 0.8333333333333334
+        }
+      ],
+      "excluded_above_dft_threshold": 65,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 1,
+      "materials_project_reference_files": 3,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.7139196616556154,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6178774510332506,
+          "target_element_fraction": 0.5714285714285714
+        },
+        {
+          "formation_energy_eV_per_atom": -0.5792099334620616,
+          "target_element_fraction": 0.6
+        },
+        {
+          "formation_energy_eV_per_atom": -0.485364661175943,
+          "target_element_fraction": 0.6666666666666666
+        }
+      ],
+      "selected_before_deduplication": 5,
+      "selected_representatives": 5
+    },
+    "TiZn": {
+      "candidate_files": 141,
+      "dft_duplicates_removed": 0,
+      "dft_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.15884444208333667,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.18488383696427593,
+          "target_element_fraction": 0.42857142857142855
+        },
+        {
+          "formation_energy_eV_per_atom": -0.1965224889583362,
+          "target_element_fraction": 0.75
+        },
+        {
+          "formation_energy_eV_per_atom": -0.16651885300000327,
+          "target_element_fraction": 0.8
+        },
+        {
+          "formation_energy_eV_per_atom": -0.1398974312500029,
+          "target_element_fraction": 0.8333333333333334
+        }
+      ],
+      "excluded_above_dft_threshold": 135,
+      "excluded_above_mlip_threshold": 0,
+      "excluded_matching_materials_project": 2,
+      "materials_project_reference_files": 7,
+      "mlip_search_hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.1267555447736246,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.19072230905873866,
+          "target_element_fraction": 0.42857142857142855
+        },
+        {
+          "formation_energy_eV_per_atom": -0.21234194286435626,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.22231039571044656,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "selected_before_deduplication": 4,
+      "selected_representatives": 4
+    }
+  }
+}

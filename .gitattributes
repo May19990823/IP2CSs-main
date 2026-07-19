@@ -12,3 +12,6 @@ data/b12_27site_relaxed_1333/structures/*.vasp -text -diff
 
 # Preserve the published Si-Ge-Sn representative structures byte for byte.
 data/sigesn_representative_structures/*.vasp -text -diff
+
+# Preserve the released DFT-relaxed alloy structures byte for byte.
+data/dft_novel_alloy_structures/structures/**/*.vasp -text -diff
