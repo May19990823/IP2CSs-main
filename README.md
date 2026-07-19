@@ -21,10 +21,10 @@ The reference calculation searches elemental B16 structures with:
 - 9000 s per entry, `PoolSolutions = 200`, `PoolSearchMode = 2`;
 - `MIPGap = 1e-3`, `MIPFocus = 1`, and `Seed = 0`.
 
-Except for the released B12/27-site benchmark structures and curated
-DFT-stable alloy structure sets documented below, the repository intentionally
-excludes production outputs, Slurm logs, caches, private environment files,
-and unrelated calculation artifacts.
+Except for the released B12/27-site benchmark structures, curated DFT-stable
+alloy structure set, and representative Si-Ge-Sn structures documented below,
+the repository intentionally excludes production outputs, Slurm logs, caches,
+private environment files, and unrelated calculation artifacts.
 
 ## B12/27-Site Benchmark Structures
 
@@ -189,6 +189,18 @@ is not forced to equal the historical manuscript count of 33. See the dataset
 README for the exact hull definitions, matcher tolerances, binary-system scope,
 and reproduction command.
 
+## Representative Si-Ge-Sn Structures
+
+The two relaxed Ge5SiSn2 configurations shown as SRO_1 and SRO_2 in Fig. 5c,d
+of the associated article are available in:
+
+```text
+data/sigesn_representative_structures/
+```
+
+The directory README records the figure-panel mapping, original structure IDs,
+and file checksums.
+
 ## Repository Layout
 
 ```text
@@ -199,6 +211,7 @@ data/effective_pair/   public B-B effective-pair table
 data/b12_27site_relaxed_1333/structures/  MLIP-relaxed B12/27-site benchmark structures
 data/dft_hull_near_structures/  DFT-stable alloy structures and manifest
 data/dft_novel_alloy_structures/  DFT-stable structures absent from MP references
+data/sigesn_representative_structures/  Ge5SiSn2 structures shown in Fig. 5c,d
 hpc/                   reference Slurm launcher
 ip4ch/                 integer-programming and pair-energy implementation
 ipcss/                 lattice/grid enumeration and compatibility checks
