@@ -1,0 +1,104 @@
+base:
+  root: "."
+  data: "./data"
+  output: "./results"
+
+input:
+  grids: "${base.data}/grids"
+  effective_pair: "${base.data}/effective_pair"
+  entry: "${base.data}/entry"
+
+output:
+  ip_results: "${base.output}/ip_result"
+  cleaned_results: "${base.output}/cleaned_result"
+  nn_results: "${base.output}/nn_result"
+  nn_cleaned_results: "${base.output}/nn_cleaned_result"
+  plot_results: "${base.output}/plot_result"
+
+Elements:
+  - B
+
+StoichiometricRatio: []
+SpecificStoichiometric:
+  - [1]
+Multiplicities:
+  - 16
+Compound: "semiconductor"
+
+Representative Lattices:
+  Cell Parameters:
+    min_lattice_length: 3
+    lower_space_utilization_rate: 2.2
+    higher_space_utilization_rate: 3.8
+    scale_step: 1.0
+
+MLIP:
+  r_min: 1.5
+  r_max: 5.0
+  pair_type: "B_pair"
+  pair_file: "${base.data}/effective_pair/B-B_maincluster_1p65_rmin1p50.csv"
+
+Gurobi:
+  Backend: "compact_quadratic"
+  Threads: 14
+  TimeLimit: 9000
+  PoolSolutions: 200
+  PoolSearchMode: 2
+  MIPGap: 0.001
+  MIPFocus: 1
+  Seed: 0
+  WriteModel: false
+
+Test_id: "B16_rmin1p50"
+
+LatticeEnumeration:
+  crystal_systems: ["Cubic", "Tetragonal", "Orthorhombic", "Hexagonal", "Rhombohedral"]
+  volume_step_factor: 0.10
+  max_volume_per_atom:
+    mode: "manual"
+    value: 50.0
+  min_lattice_length: 4
+  max_axis_ratio: 4.0
+  integer_step: 1
+  rhombohedral_angles: [55, 60, 65, 70]
+  include_flat_hexagonal: true
+  reduce_sequences: true
+
+GridGeneration:
+  r_min: 1.4
+  safety_factor: 3.0
+  max_grid_points: null
+  min_grid_per_axis: 3
+  max_grid_axis_ratio: 6.0
+  warning_grid_points: 5000
+  hard_grid_points: 12000
+  compatibility_validation_mode: "auto"
+
+Deduplication:
+  method: "niggli"
+  angle_tolerance: 0.5
+  length_tolerance: 0.05
+
+VolumePerAtomBounds: null
+
+VolumeConstraints:
+  V_min: null
+  V_max: null
+
+VolumePolicy:
+  mode: "boron_bulk"
+  boron_bulk:
+    min_volume_per_atom: 7.0
+    max_volume_per_atom: 8.05
+
+QualityFilter:
+  min_rdf_resolution_ratio: 0.1
+  max_rdf_resolution_ratio: 0.75
+  max_spacing_anisotropy: 2.0
+  min_coverage_estimate: 0.0
+  reject_poor_quality: true
+
+SpaceGroupPolicy:
+  mode: "full_range"
+  wyckoff_filter: true
+  user_selected: {}

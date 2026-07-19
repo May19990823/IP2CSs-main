@@ -1,0 +1,8 @@
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.yml text eol=lf
+*.sbatch text eol=lf
+
+# Preserve the published effective-pair table byte for byte.
+data/effective_pair/*.csv -text -diff
