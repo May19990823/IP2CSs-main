@@ -21,8 +21,20 @@ The reference calculation searches elemental B16 structures with:
 - 9000 s per entry, `PoolSolutions = 200`, `PoolSearchMode = 2`;
 - `MIPGap = 1e-3`, `MIPFocus = 1`, and `Seed = 0`.
 
-The repository intentionally excludes production outputs, Slurm logs,
+Except for the released B12/27-site benchmark structures described below,
+the repository intentionally excludes production outputs, Slurm logs,
 caches, private environment files, and unrelated boron calculations.
+
+## B12/27-Site Benchmark Structures
+
+This repository provides 1,333 structures obtained after MLIP relaxation in
+the IP2CSs B12/27-site benchmark. The structures are available in:
+
+```text
+data/b12_27site_relaxed_1333/structures/
+```
+
+Additional data will be made public as the remaining work progresses.
 
 ## Requirements
 
@@ -148,6 +160,7 @@ Utils/                 configuration and composition helpers
 b168_model_opt/        compact orbit/pair model helpers
 configs/               portable B16 configuration
 data/effective_pair/   public B-B effective-pair table
+data/b12_27site_relaxed_1333/structures/  MLIP-relaxed B12/27-site benchmark structures
 hpc/                   reference Slurm launcher
 ip4ch/                 integer-programming and pair-energy implementation
 ipcss/                 lattice/grid enumeration and compatibility checks

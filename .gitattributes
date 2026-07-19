@@ -6,3 +6,6 @@
 
 # Preserve the published effective-pair table byte for byte.
 data/effective_pair/*.csv -text -diff
+
+# Preserve the published benchmark structures byte for byte.
+data/b12_27site_relaxed_1333/structures/*.vasp -text -diff
