@@ -1,0 +1,858 @@
+{
+  "counts": {
+    "energy_mapped_files": 3928,
+    "missing_energy_files": 44,
+    "scanned_struc_files": 3972,
+    "selected_files": 154
+  },
+  "selection": {
+    "distance_operator": "<=",
+    "energy_source": "*_dft_formation_energy.csv",
+    "excluded_filename_prefixes": [
+      "mp-"
+    ],
+    "excluded_systems": [
+      "SSn",
+      "SSn_Ref"
+    ],
+    "hull_reference": "struc-only binary DFT lower convex hull",
+    "threshold_eV_per_atom": 0.001
+  },
+  "supplementary_information_alignment": {
+    "additional_structure_count": 33,
+    "additional_system_count": 9,
+    "figure_by_system": {
+      "AlAu": "Fig. S25",
+      "AlCu": "Fig. S26",
+      "AlHf": "Fig. S27",
+      "AlNb": "Fig. S28",
+      "AlNi": "Fig. S29",
+      "AlPd": "Fig. S30",
+      "AlSc": "Fig. S31",
+      "AlTi": "Fig. S23; Fig. S32",
+      "AuTi": "Fig. S33",
+      "CuPd": "Fig. S34",
+      "CuSc": "Fig. S35",
+      "IrTi": "Fig. S38",
+      "MgPd": "Fig. S39",
+      "MoTi": "Fig. S40",
+      "OsTi": "Fig. S41",
+      "PdTi": "Fig. S42",
+      "PtTi": "Fig. S43",
+      "RhTi": "Fig. S44",
+      "RuTi": "Fig. S36",
+      "TiZn": "Fig. S37"
+    },
+    "section": "S4. DFT validation for alloy systems",
+    "si_referenced_structure_count": 121,
+    "si_referenced_system_count": 20
+  },
+  "systems": {
+    "AgTi": {
+      "energy_mapped_files": 116,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.059105330937500256,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.060766787222224,
+          "target_element_fraction": 0.6666666666666666
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0005094008928533608,
+      "near_hull_files": 1,
+      "on_hull_files": 2,
+      "scanned_struc_files": 116,
+      "selected_files": 3
+    },
+    "AlAu": {
+      "energy_mapped_files": 131,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.43767856750000017,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.3261347488888894,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.21667835049999978,
+          "target_element_fraction": 0.8
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0,
+      "near_hull_files": 0,
+      "on_hull_files": 3,
+      "scanned_struc_files": 131,
+      "selected_files": 3
+    },
+    "AlCu": {
+      "energy_mapped_files": 191,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.20323634777777658,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.25106374750000054,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.24028218749999475,
+          "target_element_fraction": 0.75
+        },
+        {
+          "formation_energy_eV_per_atom": -0.18009929791666401,
+          "target_element_fraction": 0.8333333333333334
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0,
+      "near_hull_files": 0,
+      "on_hull_files": 4,
+      "scanned_struc_files": 191,
+      "selected_files": 4
+    },
+    "AlHf": {
+      "energy_mapped_files": 154,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.39132307968749824,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4405288012500013,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.389679334464281,
+          "target_element_fraction": 0.5714285714285714
+        },
+        {
+          "formation_energy_eV_per_atom": -0.22800123708332976,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0005745908333327776,
+      "near_hull_files": 2,
+      "on_hull_files": 4,
+      "scanned_struc_files": 154,
+      "selected_files": 6
+    },
+    "AlNb": {
+      "energy_mapped_files": 60,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.40455957854166397,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.29416276312500056,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.22697728484373947,
+          "target_element_fraction": 0.625
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0,
+      "near_hull_files": 0,
+      "on_hull_files": 3,
+      "scanned_struc_files": 60,
+      "selected_files": 3
+    },
+    "AlNi": {
+      "energy_mapped_files": 150,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.25752167937500037,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.36940587400000024,
+          "target_element_fraction": 0.4
+        },
+        {
+          "formation_energy_eV_per_atom": -0.3655396070535803,
+          "target_element_fraction": 0.42857142857142855
+        },
+        {
+          "formation_energy_eV_per_atom": -0.35146794333333337,
+          "target_element_fraction": 0.5
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0,
+      "near_hull_files": 0,
+      "on_hull_files": 4,
+      "scanned_struc_files": 150,
+      "selected_files": 4
+    },
+    "AlPd": {
+      "energy_mapped_files": 179,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.7620835746666671,
+          "target_element_fraction": 0.4
+        },
+        {
+          "formation_energy_eV_per_atom": -0.902746996249998,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.835230394687497,
+          "target_element_fraction": 0.625
+        },
+        {
+          "formation_energy_eV_per_atom": -0.707081089880957,
+          "target_element_fraction": 0.7142857142857143
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6373318252083292,
+          "target_element_fraction": 0.75
+        },
+        {
+          "formation_energy_eV_per_atom": -0.5222604252499963,
+          "target_element_fraction": 0.8
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4442788095833296,
+          "target_element_fraction": 0.8333333333333334
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0006843197361152686,
+      "near_hull_files": 2,
+      "on_hull_files": 7,
+      "scanned_struc_files": 179,
+      "selected_files": 9
+    },
+    "AlRh": {
+      "energy_mapped_files": 158,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.28770122708333307,
+          "target_element_fraction": 0.16666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.409039016875,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4935698702777742,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6272984959374979,
+          "target_element_fraction": 0.5
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.00022359812500027942,
+      "near_hull_files": 1,
+      "on_hull_files": 4,
+      "scanned_struc_files": 158,
+      "selected_files": 5
+    },
+    "AlSc": {
+      "energy_mapped_files": 137,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.4505158739583308,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4816656583333317,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.46072288749999935,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.3442944002777766,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.2648530293749995,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0,
+      "near_hull_files": 0,
+      "on_hull_files": 5,
+      "scanned_struc_files": 137,
+      "selected_files": 5
+    },
+    "AlTi": {
+      "energy_mapped_files": 111,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.40221285291666814,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.42684454041666875,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4033405803124994,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.3677174387500009,
+          "target_element_fraction": 0.5714285714285714
+        },
+        {
+          "formation_energy_eV_per_atom": -0.2668716387500014,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 8.628828125578636e-06,
+      "near_hull_files": 1,
+      "on_hull_files": 5,
+      "scanned_struc_files": 111,
+      "selected_files": 6
+    },
+    "AuTi": {
+      "energy_mapped_files": 127,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.288762569,
+          "target_element_fraction": 0.2
+        },
+        {
+          "formation_energy_eV_per_atom": -0.43654653708333474,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.36131232406249936,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0,
+      "near_hull_files": 0,
+      "on_hull_files": 3,
+      "scanned_struc_files": 127,
+      "selected_files": 3
+    },
+    "CdMg": {
+      "energy_mapped_files": 97,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.061558234999999684,
+          "target_element_fraction": 0.16666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.09149833175000008,
+          "target_element_fraction": 0.4
+        },
+        {
+          "formation_energy_eV_per_atom": -0.09631592500000022,
+          "target_element_fraction": 0.6
+        },
+        {
+          "formation_energy_eV_per_atom": -0.09216343281249983,
+          "target_element_fraction": 0.625
+        },
+        {
+          "formation_energy_eV_per_atom": -0.07084556625000049,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 8.4583035718927e-06,
+      "near_hull_files": 1,
+      "on_hull_files": 5,
+      "scanned_struc_files": 97,
+      "selected_files": 6
+    },
+    "CdTi": {
+      "energy_mapped_files": 140,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.05251751416666769,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.05854324729166412,
+          "target_element_fraction": 0.6666666666666666
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0,
+      "near_hull_files": 0,
+      "on_hull_files": 2,
+      "scanned_struc_files": 140,
+      "selected_files": 2
+    },
+    "CuPd": {
+      "energy_mapped_files": 142,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.12561468687499833,
+          "target_element_fraction": 0.16666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.1383329557499998,
+          "target_element_fraction": 0.2
+        },
+        {
+          "formation_energy_eV_per_atom": -0.1546603387499991,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.1535826118749979,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.05579876499999633,
+          "target_element_fraction": 0.8333333333333334
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0009320066666666446,
+      "near_hull_files": 6,
+      "on_hull_files": 5,
+      "scanned_struc_files": 142,
+      "selected_files": 11
+    },
+    "CuSc": {
+      "energy_mapped_files": 146,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.20905160166666725,
+          "target_element_fraction": 0.16666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.280716846666667,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.3137357931249998,
+          "target_element_fraction": 0.5
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0,
+      "near_hull_files": 0,
+      "on_hull_files": 3,
+      "scanned_struc_files": 146,
+      "selected_files": 3
+    },
+    "CuTi": {
+      "energy_mapped_files": 139,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.11431870140624856,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.1327955756249981,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.16524821375000087,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.12351738500000072,
+          "target_element_fraction": 0.6666666666666666
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0,
+      "near_hull_files": 0,
+      "on_hull_files": 4,
+      "scanned_struc_files": 139,
+      "selected_files": 4
+    },
+    "CuY": {
+      "energy_mapped_files": 128,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.8513505244999995,
+          "target_element_fraction": 0.6
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0,
+      "near_hull_files": 0,
+      "on_hull_files": 1,
+      "scanned_struc_files": 131,
+      "selected_files": 1
+    },
+    "IrTi": {
+      "energy_mapped_files": 123,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.47742809666667874,
+          "target_element_fraction": 0.16666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.715522644375012,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7934308781250117,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.8661313200000027,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7079696404166652,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.5774210153124972,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0,
+      "near_hull_files": 0,
+      "on_hull_files": 6,
+      "scanned_struc_files": 123,
+      "selected_files": 6
+    },
+    "LiMg": {
+      "energy_mapped_files": 86,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.029342603499998888,
+          "target_element_fraction": 0.2
+        },
+        {
+          "formation_energy_eV_per_atom": -0.05624493874999992,
+          "target_element_fraction": 0.4
+        },
+        {
+          "formation_energy_eV_per_atom": -0.06278474892857185,
+          "target_element_fraction": 0.5714285714285714
+        },
+        {
+          "formation_energy_eV_per_atom": -0.04776544785714191,
+          "target_element_fraction": 0.7142857142857143
+        },
+        {
+          "formation_energy_eV_per_atom": -0.02372612468750046,
+          "target_element_fraction": 0.875
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0008604549999999822,
+      "near_hull_files": 2,
+      "on_hull_files": 5,
+      "scanned_struc_files": 127,
+      "selected_files": 7
+    },
+    "MgPd": {
+      "energy_mapped_files": 118,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.34714158449999954,
+          "target_element_fraction": 0.2
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4189806687500002,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.5356838362500002,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7279580187499985,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6617440254999977,
+          "target_element_fraction": 0.6
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6369624381249981,
+          "target_element_fraction": 0.625
+        },
+        {
+          "formation_energy_eV_per_atom": -0.5916441002777751,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.47799111015624796,
+          "target_element_fraction": 0.75
+        },
+        {
+          "formation_energy_eV_per_atom": -0.3976174414999967,
+          "target_element_fraction": 0.8
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0005146654999997335,
+      "near_hull_files": 1,
+      "on_hull_files": 9,
+      "scanned_struc_files": 118,
+      "selected_files": 10
+    },
+    "MgSc": {
+      "energy_mapped_files": 152,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.04631495281249931,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.0452906357499991,
+          "target_element_fraction": 0.4
+        },
+        {
+          "formation_energy_eV_per_atom": -0.04356818857142792,
+          "target_element_fraction": 0.42857142857142855
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0,
+      "near_hull_files": 0,
+      "on_hull_files": 3,
+      "scanned_struc_files": 152,
+      "selected_files": 3
+    },
+    "MgY": {
+      "energy_mapped_files": 275,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.7420831537500021,
+          "target_element_fraction": 0.625
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6690727000000024,
+          "target_element_fraction": 0.8
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0,
+      "near_hull_files": 0,
+      "on_hull_files": 2,
+      "scanned_struc_files": 275,
+      "selected_files": 2
+    },
+    "MoTi": {
+      "energy_mapped_files": 148,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.11444371499999424,
+          "target_element_fraction": 0.16666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.115976899375001,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.11371155541666174,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.10126848687499823,
+          "target_element_fraction": 0.5
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0009256885416538269,
+      "near_hull_files": 1,
+      "on_hull_files": 4,
+      "scanned_struc_files": 148,
+      "selected_files": 5
+    },
+    "OsTi": {
+      "energy_mapped_files": 114,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.7298280581249994,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6069205917500071,
+          "target_element_fraction": 0.6
+        },
+        {
+          "formation_energy_eV_per_atom": -0.5185919535416753,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.3287763172500021,
+          "target_element_fraction": 0.8
+        },
+        {
+          "formation_energy_eV_per_atom": -0.2770366337499984,
+          "target_element_fraction": 0.8333333333333334
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0,
+      "near_hull_files": 0,
+      "on_hull_files": 5,
+      "scanned_struc_files": 114,
+      "selected_files": 5
+    },
+    "PdTi": {
+      "energy_mapped_files": 147,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.4758077547916635,
+          "target_element_fraction": 0.16666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.5469674459999958,
+          "target_element_fraction": 0.2
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6324558977083304,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6217815758333285,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.608536578125003,
+          "target_element_fraction": 0.375
+        },
+        {
+          "formation_energy_eV_per_atom": -0.4415562487500016,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.33173839374999936,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0009344543750060552,
+      "near_hull_files": 3,
+      "on_hull_files": 7,
+      "scanned_struc_files": 147,
+      "selected_files": 10
+    },
+    "PtTi": {
+      "energy_mapped_files": 114,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.7088980637499972,
+          "target_element_fraction": 0.2
+        },
+        {
+          "formation_energy_eV_per_atom": -0.8478294292187547,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.895754261111108,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.9110986199999985,
+          "target_element_fraction": 0.4
+        },
+        {
+          "formation_energy_eV_per_atom": -0.9206056231249979,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7916013481249973,
+          "target_element_fraction": 0.625
+        },
+        {
+          "formation_energy_eV_per_atom": -0.637581390624999,
+          "target_element_fraction": 0.75
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.000287433500000156,
+      "near_hull_files": 1,
+      "on_hull_files": 7,
+      "scanned_struc_files": 114,
+      "selected_files": 8
+    },
+    "RhTi": {
+      "energy_mapped_files": 133,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.4955930655000017,
+          "target_element_fraction": 0.2
+        },
+        {
+          "formation_energy_eV_per_atom": -0.619313453750002,
+          "target_element_fraction": 0.25
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7099171652777758,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7660804752499999,
+          "target_element_fraction": 0.4
+        },
+        {
+          "formation_energy_eV_per_atom": -0.7362708356249952,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6074878466666706,
+          "target_element_fraction": 0.6666666666666666
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0006892256250052298,
+      "near_hull_files": 2,
+      "on_hull_files": 6,
+      "scanned_struc_files": 133,
+      "selected_files": 8
+    },
+    "RuTi": {
+      "energy_mapped_files": 71,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.7495014256250023,
+          "target_element_fraction": 0.5
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6548900260714399,
+          "target_element_fraction": 0.5714285714285714
+        },
+        {
+          "formation_energy_eV_per_atom": -0.6142062447500123,
+          "target_element_fraction": 0.6
+        },
+        {
+          "formation_energy_eV_per_atom": -0.517054121458339,
+          "target_element_fraction": 0.6666666666666666
+        },
+        {
+          "formation_energy_eV_per_atom": -0.31377679400000175,
+          "target_element_fraction": 0.8
+        },
+        {
+          "formation_energy_eV_per_atom": -0.2626818891666692,
+          "target_element_fraction": 0.8333333333333334
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0,
+      "near_hull_files": 0,
+      "on_hull_files": 6,
+      "scanned_struc_files": 71,
+      "selected_files": 6
+    },
+    "TiZn": {
+      "energy_mapped_files": 141,
+      "hull_vertices": [
+        {
+          "formation_energy_eV_per_atom": -0.15884444208333667,
+          "target_element_fraction": 0.3333333333333333
+        },
+        {
+          "formation_energy_eV_per_atom": -0.18488383696427593,
+          "target_element_fraction": 0.42857142857142855
+        },
+        {
+          "formation_energy_eV_per_atom": -0.1965224889583362,
+          "target_element_fraction": 0.75
+        },
+        {
+          "formation_energy_eV_per_atom": -0.16651885300000327,
+          "target_element_fraction": 0.8
+        },
+        {
+          "formation_energy_eV_per_atom": -0.1398974312500029,
+          "target_element_fraction": 0.8333333333333334
+        }
+      ],
+      "maximum_selected_distance_eV_per_atom": 0.0009181952083331668,
+      "near_hull_files": 1,
+      "on_hull_files": 5,
+      "scanned_struc_files": 141,
+      "selected_files": 6
+    }
+  }
+}

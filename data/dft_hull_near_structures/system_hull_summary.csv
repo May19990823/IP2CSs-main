@@ -1,0 +1,30 @@
+system,release_category,si_reference,scanned_struc_files,energy_mapped_files,missing_energy_files,selected_files,on_hull_files,near_hull_files,maximum_selected_distance_eV_per_atom,hull_phases
+AgTi,additional-current-DFT,,116,116,0,3,2,1,0.000509400892853361,Ag1Ti1;Ag1Ti2
+AlAu,SI-referenced,Fig. S25,131,131,0,3,3,0,0,Al2Au1;Al1Au2;Al1Au4
+AlCu,SI-referenced,Fig. S26,191,191,0,4,4,0,0,Al2Cu1;Al1Cu2;Al1Cu3;Al1Cu5
+AlHf,SI-referenced,Fig. S27,154,154,0,6,4,2,0.000574590833332778,Al3Hf1;Al2Hf1;Al3Hf4;Al1Hf3
+AlNb,SI-referenced,Fig. S28,60,60,0,3,3,0,0,Al3Nb1;Al1Nb1;Al3Nb5
+AlNi,SI-referenced,Fig. S29,150,150,0,4,4,0,0,Al3Ni1;Al3Ni2;Al4Ni3;Al1Ni1
+AlPd,SI-referenced,Fig. S30,179,179,0,9,7,2,0.000684319736115269,Al3Pd2;Al1Pd1;Al3Pd5;Al2Pd5;Al1Pd3;Al1Pd4;Al1Pd5
+AlRh,additional-current-DFT,,158,158,0,5,4,1,0.000223598125000279,Al5Rh1;Al3Rh1;Al2Rh1;Al1Rh1
+AlSc,SI-referenced,Fig. S31,137,137,0,5,5,0,0,Al3Sc1;Al2Sc1;Al1Sc1;Al1Sc2;Al1Sc3
+AlTi,SI-referenced,Fig. S23; Fig. S32,111,111,0,6,5,1,8.62882812557864e-06,Al3Ti1;Al2Ti1;Al1Ti1;Al3Ti4;Al1Ti3
+AuTi,SI-referenced,Fig. S33,127,127,0,3,3,0,0,Au4Ti1;Au2Ti1;Au1Ti3
+CdMg,additional-current-DFT,,97,97,0,6,5,1,8.4583035718927e-06,Cd5Mg1;Cd3Mg2;Cd2Mg3;Cd3Mg5;Cd1Mg3
+CdTi,additional-current-DFT,,140,140,0,2,2,0,0,Cd1Ti1;Cd1Ti2
+CuPd,SI-referenced,Fig. S34,142,142,0,11,5,6,0.000932006666666645,Cu5Pd1;Cu4Pd1;Cu3Pd1;Cu1Pd1;Cu1Pd5
+CuSc,SI-referenced,Fig. S35,146,146,0,3,3,0,0,Cu5Sc1;Cu2Sc1;Cu1Sc1
+CuTi,additional-current-DFT,,139,139,0,4,4,0,0,Cu3Ti1;Cu2Ti1;Cu1Ti1;Cu1Ti2
+CuY,additional-current-DFT,,131,128,3,1,1,0,0,Cu2Y3
+IrTi,SI-referenced,Fig. S38,123,123,0,6,6,0,0,Ir5Ti1;Ir3Ti1;Ir2Ti1;Ir1Ti1;Ir1Ti2;Ir1Ti3
+LiMg,additional-current-DFT,,127,86,41,7,5,2,0.000860454999999982,Li4Mg1;Li3Mg2;Li3Mg4;Li2Mg5;Li1Mg7
+MgPd,SI-referenced,Fig. S39,118,118,0,10,9,1,0.000514665499999734,Mg4Pd1;Mg3Pd1;Mg2Pd1;Mg1Pd1;Mg2Pd3;Mg3Pd5;Mg1Pd2;Mg1Pd3;Mg1Pd4
+MgSc,additional-current-DFT,,152,152,0,3,3,0,0,Mg3Sc1;Mg3Sc2;Mg4Sc3
+MgY,additional-current-DFT,,275,275,0,2,2,0,0,Mg3Y5;Mg1Y4
+MoTi,SI-referenced,Fig. S40,148,148,0,5,4,1,0.000925688541653827,Mo5Ti1;Mo3Ti1;Mo2Ti1;Mo1Ti1
+OsTi,SI-referenced,Fig. S41,114,114,0,5,5,0,0,Os1Ti1;Os2Ti3;Os1Ti2;Os1Ti4;Os1Ti5
+PdTi,SI-referenced,Fig. S42,147,147,0,10,7,3,0.000934454375006055,Pd5Ti1;Pd4Ti1;Pd3Ti1;Pd2Ti1;Pd5Ti3;Pd1Ti2;Pd1Ti3
+PtTi,SI-referenced,Fig. S43,114,114,0,8,7,1,0.000287433500000156,Pt4Ti1;Pt3Ti1;Pt2Ti1;Pt3Ti2;Pt1Ti1;Pt3Ti5;Pt1Ti3
+RhTi,SI-referenced,Fig. S44,133,133,0,8,6,2,0.00068922562500523,Rh4Ti1;Rh3Ti1;Rh2Ti1;Rh3Ti2;Rh1Ti1;Rh1Ti2
+RuTi,SI-referenced,Fig. S36,71,71,0,6,6,0,0,Ru1Ti1;Ru3Ti4;Ru2Ti3;Ru1Ti2;Ru1Ti4;Ru1Ti5
+TiZn,SI-referenced,Fig. S37,141,141,0,6,5,1,0.000918195208333167,Ti2Zn1;Ti4Zn3;Ti1Zn3;Ti1Zn4;Ti1Zn5

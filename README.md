@@ -21,9 +21,10 @@ The reference calculation searches elemental B16 structures with:
 - 9000 s per entry, `PoolSolutions = 200`, `PoolSearchMode = 2`;
 - `MIPGap = 1e-3`, `MIPFocus = 1`, and `Seed = 0`.
 
-Except for the released B12/27-site benchmark structures described below,
-the repository intentionally excludes production outputs, Slurm logs,
-caches, private environment files, and unrelated boron calculations.
+Except for the released B12/27-site benchmark structures and curated
+DFT-stable alloy structure set documented below, the repository intentionally
+excludes production outputs, Slurm logs, caches, private environment files,
+and unrelated calculation artifacts.
 
 ## B12/27-Site Benchmark Structures
 
@@ -153,6 +154,25 @@ b1b848ff4023ee469a74c46c59aa719ea70d81109c0ebc9acd0b511994e59135
 The first tabulated distance is 1.50 A and the cutoff is 5.00 A. The `E_ij`
 column is the energy used by the integer-programming model.
 
+## DFT-Stable Alloy Structures
+
+The repository also includes 154 DFT-relaxed alloy search structures that are
+on or within `0.001 eV/atom` of their respective binary, `struc`-only DFT
+lower convex hull:
+
+```text
+data/dft_hull_near_structures/
+```
+
+Materials Project (`mp-*`) entries are excluded from both hull construction
+and the released structure set. The selection manifest records each
+structure's DFT formation energy, distance to the hull, source-relative path,
+and SHA-256 checksum. Twenty systems correspond to the DFT hull figures in
+Section S4 of the supplementary information, while nine additional systems
+contain newer DFT results evaluated by the same rule. See
+`data/dft_hull_near_structures/README.md` for the precise selection rule and
+reproduction command.
+
 ## Repository Layout
 
 ```text
@@ -161,6 +181,7 @@ b168_model_opt/        compact orbit/pair model helpers
 configs/               portable B16 configuration
 data/effective_pair/   public B-B effective-pair table
 data/b12_27site_relaxed_1333/structures/  MLIP-relaxed B12/27-site benchmark structures
+data/dft_hull_near_structures/  DFT-stable alloy structures and manifest
 hpc/                   reference Slurm launcher
 ip4ch/                 integer-programming and pair-energy implementation
 ipcss/                 lattice/grid enumeration and compatibility checks
