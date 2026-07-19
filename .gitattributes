@@ -9,3 +9,6 @@ data/effective_pair/*.csv -text -diff
 
 # Preserve the published benchmark structures byte for byte.
 data/b12_27site_relaxed_1333/structures/*.vasp -text -diff
+
+# Preserve the published Si-Ge-Sn representative structures byte for byte.
+data/sigesn_representative_structures/*.vasp -text -diff
